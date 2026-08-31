@@ -49,20 +49,20 @@ Depo eklenmiyorsa [WARP](https://one.one.one.one/) açın. İzlerken gerekip ger
 
 <table align="center">
   <tr>
-    <td align="center"><a href="https://www.selcuksportshd.is/"><img src="assets/providers/SelcukSports.png" width="56" height="56" alt="SelçukSports"></a><br>🟢</td>
-    <td align="center"><a href="https://www.inatgiris.com/"><img src="assets/providers/InatTV.png" width="56" height="56" alt="İnat TV"></a><br>🟢</td>
-    <td align="center"><a href="https://crex1.vercel.app/"><img src="assets/providers/Crex.png" width="56" height="56" alt="Crex"></a><br>🟢</td>
-    <td align="center"><a href="https://mahsunsports.com/"><img src="assets/providers/MahsunSports.jpg" width="56" height="56" alt="MahsunSports"></a><br>🟢</td>
-    <td align="center"><a href="https://www.ardasporgiris.site/"><img src="assets/providers/ArdaSpor.png" width="56" height="56" alt="ArdaSpor"></a><br>🟢</td>
-    <td align="center"><a href="https://www.mackeyfi559.sbs/"><img src="assets/providers/MacKeyfi.png" width="56" height="56" alt="MaçKeyfi"></a><br>🔴</td>
+    <td align="center"><img src="assets/providers/SelcukSports.png" width="56" height="56" alt="SelçukSports"><br>🟢</td>
+    <td align="center"><img src="assets/providers/InatTV.png" width="56" height="56" alt="İnat TV"><br>🟢</td>
+    <td align="center"><img src="assets/providers/Crex.png" width="56" height="56" alt="Crex"><br>🟢</td>
+    <td align="center"><img src="assets/providers/MahsunSports.jpg" width="56" height="56" alt="MahsunSports"><br>🟢</td>
+    <td align="center"><img src="assets/providers/ArdaSpor.png" width="56" height="56" alt="ArdaSpor"><br>🟢</td>
+    <td align="center"><img src="assets/providers/MacKeyfi.png" width="56" height="56" alt="MaçKeyfi"><br>🔴</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://beyazelma78.com/"><img src="assets/providers/BeyazElma.png" width="56" height="56" alt="BeyazElma"></a><br>🟢</td>
+    <td align="center"><img src="assets/providers/BeyazElma.png" width="56" height="56" alt="BeyazElma"><br>🟢</td>
     <td align="center"><img src="assets/providers/InatBox.webp" width="56" height="56" alt="İnat Box"><br>🟢</td>
     <td align="center"><img src="assets/providers/AslanTV.png" width="56" height="56" alt="Aslan TV"><br>🟢</td>
-    <td align="center"><a href="https://taraftarium24.ch/"><img src="assets/providers/Taraftarium24.png" width="56" height="56" alt="Taraftarium24"></a><br>🔴</td>
-    <td align="center"><a href="https://zbahistv65.com/"><img src="assets/providers/ZbahisTV.png" width="56" height="56" alt="ZbahisTV"></a><br>🔴</td>
-    <td align="center"><a href="https://intersportv1.live/"><img src="assets/providers/InterSporTV.png" width="56" height="56" alt="InterSporTV"></a><br>🔴</td>
+    <td align="center"><img src="assets/providers/Taraftarium24.png" width="56" height="56" alt="Taraftarium24"><br>🔴</td>
+    <td align="center"><img src="assets/providers/ZbahisTV.png" width="56" height="56" alt="ZbahisTV"><br>🔴</td>
+    <td align="center"><img src="assets/providers/InterSporTV.png" width="56" height="56" alt="InterSporTV"><br>🔴</td>
   </tr>
 </table>
 
