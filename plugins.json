@@ -2,14 +2,14 @@
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/ArdaSpor.cs3",
         "status": 3,
-        "version": 7,
+        "version": 8,
         "name": "ArdaSpor",
         "internalName": "ArdaSpor",
         "authors": [
             "Wiojelt"
         ],
         "description": "\ud83d\udfe2 Kaynak: ArdaSpor \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
-        "fileSize": 56974,
+        "fileSize": 56707,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
         "tvTypes": [
@@ -17,19 +17,19 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ArdaSpor.png",
         "apiVersion": 1,
-        "fileHash": "sha256-0249f9b5d8bb96ffe2db20cc5c2e2581a8195807e184236d03e05f216f07240b"
+        "fileHash": "sha256-dfbde2e608c1552e61f6e49b54e028508e4b5270c25fa10c5349134a001cd9f3"
     },
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/AslanTV.cs3",
         "status": 3,
-        "version": 7,
+        "version": 8,
         "name": "AslanTV",
         "internalName": "AslanTV",
         "authors": [
             "Wiojelt"
         ],
         "description": "\ud83d\udfe2 Kaynak: Aslan TV \u00b7 Derleme izni ve eme\u011fi i\u00e7in yap\u0131mc\u0131s\u0131na te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt \u00b7 WARP gerekebilir.",
-        "fileSize": 123731,
+        "fileSize": 123502,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
         "tvTypes": [
@@ -37,19 +37,19 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/AslanTV.png",
         "apiVersion": 1,
-        "fileHash": "sha256-62d596b6db5ec78f373a2c191bbd4e771c0544a703136ba1a132fbd9a442f184"
+        "fileHash": "sha256-c7bd740f11ba2e702b5ef2cb141f8aa034ac2ee83bae51448e43b138304005dc"
     },
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/BeyazElma.cs3",
         "status": 3,
-        "version": 7,
+        "version": 8,
         "name": "BeyazElma",
         "internalName": "BeyazElma",
         "authors": [
             "Wiojelt"
         ],
         "description": "\ud83d\udfe2 Kaynak: BeyazElma \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
-        "fileSize": 78611,
+        "fileSize": 78362,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
         "tvTypes": [
@@ -57,19 +57,19 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BeyazElma.png",
         "apiVersion": 1,
-        "fileHash": "sha256-b378fe472e399392518fac30219419cdf17575cbda402fa17c2098b8e2da252d"
+        "fileHash": "sha256-1fb6c8c841da853ff6c5df159320ee804bac6f095fd78ac1693144e18beff847"
     },
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/Crex.cs3",
         "status": 3,
-        "version": 6,
+        "version": 7,
         "name": "Crex",
         "internalName": "Crex",
         "authors": [
             "Wiojelt"
         ],
         "description": "\ud83d\udfe2 Kaynak: Crex \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
-        "fileSize": 57754,
+        "fileSize": 57506,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
         "tvTypes": [
@@ -77,12 +77,12 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Crex.png",
         "apiVersion": 1,
-        "fileHash": "sha256-3e336c37ace9e849ba1561a08462f8129fcfd12fe9704680e2b471b4ece7a0f9"
+        "fileHash": "sha256-5328d4131dc991ee5a256836fc33120415ed401f9304d076bce44908cb79b893"
     },
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/InatBox.cs3",
         "status": 3,
-        "version": 5,
+        "version": 6,
         "name": "InatBox",
         "internalName": "InatBox",
         "authors": [
@@ -93,7 +93,7 @@
             "keyiflerolsun"
         ],
         "description": "\ud83d\udfe2 Kaynak: \u0130nat Box \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
-        "fileSize": 92050,
+        "fileSize": 91792,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
         "tvTypes": [
@@ -101,19 +101,19 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InatBox.webp",
         "apiVersion": 1,
-        "fileHash": "sha256-e50f2d28605cd7befe4c6c8667443802f22317971410fbbd635de7aa062406a3"
+        "fileHash": "sha256-0613a844177d7e7dd060c1d0660b2d0c7e05583a57e98f1e0dd5c069966d7fad"
     },
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/InatTV.cs3",
         "status": 3,
-        "version": 6,
+        "version": 7,
         "name": "InatTV",
         "internalName": "InatTV",
         "authors": [
             "Wiojelt"
         ],
         "description": "\ud83d\udfe2 Kaynak: \u0130nat TV \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
-        "fileSize": 54829,
+        "fileSize": 54562,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
         "tvTypes": [
@@ -121,19 +121,19 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InatTV.png",
         "apiVersion": 1,
-        "fileHash": "sha256-5dab966bc4720e25b5ddb25415cc8396443dd1334325320e7befe23d82fd2cfb"
+        "fileHash": "sha256-abdf58867718675f939838ff82e261fd2b706376622b4c33e2f017deaf96ac4d"
     },
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/InterSporTV.cs3",
         "status": 3,
-        "version": 7,
+        "version": 8,
         "name": "InterSporTV",
         "internalName": "InterSporTV",
         "authors": [
             "Wiojelt"
         ],
         "description": "\ud83d\udd34 Kaynak: InterSporTV \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
-        "fileSize": 78559,
+        "fileSize": 78325,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
         "tvTypes": [
@@ -141,19 +141,19 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InterSporTV.png",
         "apiVersion": 1,
-        "fileHash": "sha256-e455a81f79ee828da452f9a046dbaff143b4684837ba84ad2568b34116e3ab58"
+        "fileHash": "sha256-bfc1c91693f84b1a45d656092cfcaac0d1ed0d3dad0da9e7b991c2f07b0f770d"
     },
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/MacKeyfi.cs3",
         "status": 3,
-        "version": 7,
+        "version": 8,
         "name": "MacKeyfi",
         "internalName": "MacKeyfi",
         "authors": [
             "Wiojelt"
         ],
         "description": "\ud83d\udd34 Kaynak: Ma\u00e7Keyfi / Canl\u0131ma\u00e7lar \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt \u00b7 WARP gerekebilir.",
-        "fileSize": 78596,
+        "fileSize": 78314,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
         "tvTypes": [
@@ -161,19 +161,19 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/MacKeyfi.png",
         "apiVersion": 1,
-        "fileHash": "sha256-f97f26eb27364103e0f2677da2b5d8a19ae48a20144a4c48d74b8e055c5899e2"
+        "fileHash": "sha256-8dff2670194d32dac6a7f5f61743f0f854273a8992cdb8be6742d409e83de89c"
     },
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/MahsunSports.cs3",
         "status": 3,
-        "version": 6,
+        "version": 7,
         "name": "MahsunSports",
         "internalName": "MahsunSports",
         "authors": [
             "Wiojelt"
         ],
         "description": "\ud83d\udfe2 Kaynak: MahsunSports \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
-        "fileSize": 56594,
+        "fileSize": 56349,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
         "tvTypes": [
@@ -181,19 +181,19 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/MahsunSports.jpg",
         "apiVersion": 1,
-        "fileHash": "sha256-6058cf27453b1e671e02ba128d7f228345a979e8b452b25b42a4a8c3c1e0d508"
+        "fileHash": "sha256-1bbc517156832dbddccf075da8067242398cc4303bf9b91d2fb14029ad2e8b5c"
     },
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/SelcukSports.cs3",
         "status": 3,
-        "version": 9,
+        "version": 10,
         "name": "SelcukSports",
         "internalName": "SelcukSports",
         "authors": [
             "Wiojelt"
         ],
         "description": "\ud83d\udfe2 Kaynak: Sel\u00e7ukSports \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
-        "fileSize": 53026,
+        "fileSize": 52784,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
         "tvTypes": [
@@ -201,19 +201,19 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/SelcukSports.png",
         "apiVersion": 1,
-        "fileHash": "sha256-df0dea636323dd500df456d3965fc6e4ab1f42c98f895880445742cb71470262"
+        "fileHash": "sha256-07961698a0f383f92a503c7442b6e4c423684568110677b3c143fc0bc9f6cb36"
     },
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/Taraftarium24.cs3",
         "status": 3,
-        "version": 8,
+        "version": 9,
         "name": "Taraftarium24",
         "internalName": "Taraftarium24",
         "authors": [
             "Wiojelt"
         ],
         "description": "\ud83d\udd34 Kaynak: Taraftarium24 \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
-        "fileSize": 53660,
+        "fileSize": 53410,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
         "tvTypes": [
@@ -221,7 +221,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Taraftarium24.png",
         "apiVersion": 1,
-        "fileHash": "sha256-950548ef84da66034a4d3bf6a400223dac7f236f24c0edec36b437776d54c59b"
+        "fileHash": "sha256-fc94e1aa96e0c53b978bad584511a5ea737f63912ec743916375f1d149a0e54e"
     },
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/TurkSporDestek.cs3",
@@ -233,7 +233,7 @@
             "Wiojelt"
         ],
         "description": "TurkSpor\u2019a destek ol \u2615 \u00b7 @wiojelt \u00b7 made with \u2665",
-        "fileSize": 26120,
+        "fileSize": 25870,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
         "tvTypes": [
@@ -241,19 +241,19 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/support-qr.png",
         "apiVersion": 1,
-        "fileHash": "sha256-32eb652ac2f4c847afc256e7b122842e8b8c832434a04a00af91fd5e38ab5b26"
+        "fileHash": "sha256-9496ca16d28658011f0e58bed46a6c5cad671b2e298425dcd4fdfee649b0cfd3"
     },
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/ZbahisTV.cs3",
         "status": 3,
-        "version": 7,
+        "version": 8,
         "name": "ZbahisTV",
         "internalName": "ZbahisTV",
         "authors": [
             "Wiojelt"
         ],
         "description": "\ud83d\udd34 Kaynak: Zbahis / Baywin TV \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
-        "fileSize": 78620,
+        "fileSize": 78360,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
         "tvTypes": [
@@ -261,6 +261,6 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ZbahisTV.png",
         "apiVersion": 1,
-        "fileHash": "sha256-a1987c2668fefb3ff3df39b381e98761753e859b9d74156e0548f7abc5995dbd"
+        "fileHash": "sha256-b111ba6db55d03f92748aabd6757dcf0c30a0adcac6fe40c60e58d3f76f36957"
     }
 ]
