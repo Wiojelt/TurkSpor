@@ -27,6 +27,14 @@ TurkSpor, üçüncü taraf servislerden bağlantı ve oynatma bilgisi alan Cloud
 
 </details>
 
+## 📥 Kurulum
+
+<p align="center">
+  <a href="https://intradeus.github.io/http-protocol-redirector?r=cloudstreamrepo://raw.githubusercontent.com/Wiojelt/TurkSpor/main/repo.json">
+    <img src="https://img.shields.io/badge/CloudStream-TurkSpor%20Deposunu%20Ekle-blue?style=for-the-badge" alt="CloudStream — TurkSpor Deposunu Ekle">
+  </a>
+</p>
+
 **Kısa kod: `turkspor` · WARP ile eklentiyi kur.**
 
 **Kısa link: `[https://l24.im/mK1h6]` ile eklentiyi kur.**
