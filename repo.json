@@ -1,0 +1,6 @@
+{
+  "name": "TurkSpor",
+  "description": "Canlı spor kaynakları ve domain yenileme",
+  "manifestVersion": 1,
+  "pluginLists": ["https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/plugins.json"]
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "sources": {
+    "ardaspor": {
+      "gateways": ["https://www.ardasporgiris.site/"],
+      "candidates": ["https://ardaspor30.top/", "https://www.atomsportv513.top/"]
+    },
+    "mahsunsports": {"gateways": ["https://mahsunsports.com/"], "candidates": ["https://mahsunsports80.xyz/"]},
+    "crex": {"gateways": ["https://crex1.vercel.app/"], "candidates": ["https://crex1.vercel.app/"]},
+    "inattv": {"gateways": ["https://www.inatgiris.com/"], "candidates": ["https://www.inattvizle487.top/"]},
+    "taraftarium24": {"gateways": ["https://taraftarium24.ch/"], "candidates": ["https://taraftarium1081.xyz/", "https://inattv1322.xyz/"]},
+    "selcuksports": {"gateways": ["https://www.selcuksportshd.is/"], "candidates": ["https://www.selcuksportshdbd813bd00f.xyz/"]},
+    "mackeyfi": {"candidates": ["https://www.mackeyfi559.sbs/", "https://www.canlimaclar559.sbs/"]},
+    "zbahistv": {"candidates": ["https://zbahistv65.com/", "https://99baywintv.live/"]},
+    "intersportv": {"candidates": ["https://intersportv1.live/"]},
+    "beyazelma": {"candidates": ["https://beyazelma78.com/"]}
+  }
+}
