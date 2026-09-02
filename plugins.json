@@ -2,14 +2,14 @@
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/ArdaSpor.cs3",
         "status": 3,
-        "version": 8,
+        "version": 9,
         "name": "ArdaSpor",
         "internalName": "ArdaSpor",
         "authors": [
             "Wiojelt"
         ],
         "description": "\ud83d\udfe2 Kaynak: ArdaSpor \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
-        "fileSize": 56707,
+        "fileSize": 56702,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
         "tvTypes": [
@@ -17,7 +17,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ArdaSpor.png",
         "apiVersion": 1,
-        "fileHash": "sha256-dfbde2e608c1552e61f6e49b54e028508e4b5270c25fa10c5349134a001cd9f3"
+        "fileHash": "sha256-8a2f4d71b396e1fdc175d8a11f5d0b7835c0073ae77830c2b4fb64ec8742da8c"
     },
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/AslanTV.cs3",
@@ -106,14 +106,14 @@
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/InatTV.cs3",
         "status": 3,
-        "version": 7,
+        "version": 8,
         "name": "InatTV",
         "internalName": "InatTV",
         "authors": [
             "Wiojelt"
         ],
         "description": "\ud83d\udfe2 Kaynak: \u0130nat TV \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
-        "fileSize": 54562,
+        "fileSize": 54559,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
         "tvTypes": [
@@ -121,7 +121,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InatTV.png",
         "apiVersion": 1,
-        "fileHash": "sha256-abdf58867718675f939838ff82e261fd2b706376622b4c33e2f017deaf96ac4d"
+        "fileHash": "sha256-e07717c594d268cc34d47bdcf7c561ef30deb90afa7c802d36adb5f7febe17f6"
     },
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/InterSporTV.cs3",
@@ -206,14 +206,14 @@
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/Taraftarium24.cs3",
         "status": 3,
-        "version": 9,
+        "version": 10,
         "name": "Taraftarium24",
         "internalName": "Taraftarium24",
         "authors": [
             "Wiojelt"
         ],
         "description": "\ud83d\udd34 Kaynak: Taraftarium24 \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
-        "fileSize": 53410,
+        "fileSize": 53395,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
         "tvTypes": [
@@ -221,7 +221,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Taraftarium24.png",
         "apiVersion": 1,
-        "fileHash": "sha256-fc94e1aa96e0c53b978bad584511a5ea737f63912ec743916375f1d149a0e54e"
+        "fileHash": "sha256-27b6795d6b507f9fb433f3ace73118c95b0c138971d3a4f46763dd85d5142917"
     },
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/TurkSporDestek.cs3",
