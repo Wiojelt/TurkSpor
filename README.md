@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <strong>12 spor sağlayıcısı tek eklentide.</strong><br>
+  <strong>Önce destek eklentisi, ardından 12 spor sağlayıcısı tek pakette.</strong><br>
   TurkSpor → ⚙ ayarından istediğiniz sağlayıcıyı açıp kapatabilirsiniz.
 </p>
 
