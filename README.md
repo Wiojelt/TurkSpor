@@ -3,8 +3,17 @@
 </p>
 
 <p align="center">
+  <img src="assets/logo.png" alt="TurkSpor" width="180">
+</p>
+
+<p align="center">
   <a href="https://twitter.com/wiojelt"><img src="https://img.shields.io/badge/made_with-%E2%99%A5-c394d5?style=flat-square" alt="made with ♥"></a>
   <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin"></a>
+</p>
+
+<p align="center">
+  <strong>12 spor sağlayıcısı tek eklentide.</strong><br>
+  TurkSpor → ⚙ ayarından istediğiniz sağlayıcıyı açıp kapatabilirsiniz.
 </p>
 
 <p align="center">
@@ -71,11 +80,6 @@ Depo eklenmiyorsa [WARP](https://one.one.one.one/) açın. İzlerken gerekip ger
   <strong>Aslan TV yapımcısına ayrıca teşekkür ederiz.</strong><br>
   Kaynaklarını TurkSpor’da derlememize verdiği izin ve emeği için minnettarız.<br>
   Bu listelerin asıl kaynağı Aslan TV’dir.
-</p>
-
-<p align="center">
-  Aslan TV listelerini <strong>Aslan TV → ⚙</strong> üzerinden açıp kapatabilirsiniz.<br>
-  Adresi yenilemek için sağlayıcı adına dokunun.
 </p>
 
 <p align="center">
