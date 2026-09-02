@@ -23,8 +23,8 @@
 
 <p align="center">
   <a href="https://twitter.com/wiojelt"><img src="https://img.shields.io/badge/%40wiojelt-24292f?style=flat-square&amp;logo=x&amp;logoColor=white" alt="Twitter @wiojelt"></a>
-  <a href="https://instagram.com/wiojelt"><img src="https://img.shields.io/badge/%40wiojelt-24292f?style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Instagram @wiojelt"></a>
   <a href="https://github.com/Wiojelt"><img src="https://img.shields.io/badge/%40wiojelt-24292f?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub @wiojelt"></a>
+  <a href="https://t.me/wioj3lt"><img src="https://img.shields.io/badge/%40wioj3lt-24292f?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram @wioj3lt"></a>
 </p>
 
 <details>
