@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="assets/logo.png" alt="TurkSpor" width="180">
+  <a href="https://intradeus.github.io/http-protocol-redirector?r=cloudstreamrepo://raw.githubusercontent.com/Wiojelt/TurkSpor/main/repo.json"><img src="assets/logo.png" alt="TurkSpor deposunu CloudStream'e ekle" width="180"></a><br>
+  <strong>Logoya dokun: TurkSpor deposu CloudStream'e eklenir.</strong>
 </p>
 
 <p align="center">
@@ -12,8 +13,8 @@
 </p>
 
 <p align="center">
-  <strong>Önce destek eklentisi, ardından 12 spor sağlayıcısı tek pakette.</strong><br>
-  TurkSpor → ⚙ ayarından istediğiniz sağlayıcıyı açıp kapatabilirsiniz.
+  <strong>Önce destek eklentisi, ardından 17 spor sağlayıcısı ayrı ayrı.</strong><br>
+  Her sağlayıcının ⚙ ekranında bağlantı kontrolü ve güncelleme durumu bulunur. Aslan TV kanalları kendi eklentisinde topludur.
 </p>
 
 <p align="center">
@@ -44,7 +45,7 @@ TurkSpor, üçüncü taraf servislerden bağlantı ve oynatma bilgisi alan Cloud
   </a>
 </p>
 
-**Kısa kod: `turkspor` · WARP ile eklentiyi kur.**
+**Kısa kod: `turkspor` · İstediğiniz sağlayıcıyı ayrı kurun.**
 
 **Kısa link: `[https://l24.im/mK1h6]` ile eklentiyi kur.**
 
@@ -72,6 +73,14 @@ Depo eklenmiyorsa [WARP](https://one.one.one.one/) açın. İzlerken gerekip ger
     <td align="center"><img src="assets/providers/Taraftarium24.png" width="56" height="56" alt="Taraftarium24"><br>🔴</td>
     <td align="center"><img src="assets/providers/ZbahisTV.png" width="56" height="56" alt="ZbahisTV"><br>🔴</td>
     <td align="center"><img src="assets/providers/InterSporTV.png" width="56" height="56" alt="InterSporTV"><br>🔴</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/providers/KralSporHD.png" width="56" height="56" alt="KralSporHD"><br>🟢</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 

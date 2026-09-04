@@ -1,6 +1,7 @@
 {
   "name": "TurkSpor",
   "description": "Canlı spor kaynakları ve domain yenileme",
+  "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png",
   "manifestVersion": 1,
-  "pluginLists": ["https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/plugins.json?v=3"]
+  "pluginLists": ["https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/plugins.json?v=4"]
 }
