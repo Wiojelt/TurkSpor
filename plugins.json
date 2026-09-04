@@ -1,8 +1,8 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/723ec89f4ef925afc9081ffbfb524fd58bc512cb/TurkSporDestek.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/0874cac45bdd7ad1b451463e82339f9d75a7223e/TurkSporDestek.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "00 · TurkSpor'a destek ol ☕",
     "internalName": "TurkSporDestek",
     "authors": [
@@ -17,19 +17,19 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/support-qr.png",
     "apiVersion": 1,
-    "fileHash": "sha256-9496ca16d28658011f0e58bed46a6c5cad671b2e298425dcd4fdfee649b0cfd3"
+    "fileHash": "sha256-9e4708c872225221da93737800445369ae489df3244d6d4de57b5e7923082a5e"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/723ec89f4ef925afc9081ffbfb524fd58bc512cb/TurkSpor.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/0874cac45bdd7ad1b451463e82339f9d75a7223e/TurkSpor.cs3",
     "status": 3,
-    "version": 1,
+    "version": 3,
     "name": "TurkSpor",
     "internalName": "TurkSpor",
     "authors": [
       "Wiojelt"
     ],
-    "description": "12 spor sağlayıcısı tek pakette. İstenen sağlayıcı eklenti ayarlarından açılıp kapatılabilir.",
-    "fileSize": 268130,
+    "description": "17 spor sağlayıcısı tek pakette. İstenen sağlayıcı eklenti ayarlarından açılıp kapatılabilir.",
+    "fileSize": 337297,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -37,6 +37,6 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-f78bab0e914fb008dd3408c26f1736a66b650e528ea036c33cd4d8475d535571"
+    "fileHash": "sha256-5dc17d7c23ca42492d43a867a6febf8e7b62ac8b978ada467eb05b8fee289e8a"
   }
 ]
