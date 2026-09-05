@@ -8,12 +8,12 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/wiojelt"><img src="https://img.shields.io/badge/made_with-%E2%99%A5-c394d5?style=flat-square" alt="made with ♥"></a>
+  <img src="https://img.shields.io/badge/made_with-%E2%99%A5-c394d5?style=flat-square" alt="made with ♥">
   <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin"></a>
 </p>
 
 <p align="center">
-  <strong>Önce destek eklentisi, ardından 17 spor sağlayıcısı ayrı ayrı.</strong><br>
+  <strong>Önce destek eklentisi, ardından 18 spor sağlayıcısı ayrı ayrı.</strong><br>
   Her sağlayıcının ⚙ ekranında bağlantı kontrolü ve güncelleme durumu bulunur. Aslan TV kanalları kendi eklentisinde topludur.
 </p>
 
@@ -23,10 +23,12 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/wiojelt"><img src="https://img.shields.io/badge/%40wiojelt-24292f?style=flat-square&amp;logo=x&amp;logoColor=white" alt="Twitter @wiojelt"></a>
   <a href="https://github.com/Wiojelt"><img src="https://img.shields.io/badge/%40wiojelt-24292f?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub @wiojelt"></a>
   <a href="https://t.me/wioj3lt"><img src="https://img.shields.io/badge/%40wioj3lt-24292f?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram @wioj3lt"></a>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWiojelt%2FTurkSpor%2Fmain%2Fstats.json&amp;query=%24.views.uniques&amp;label=14%20g%C3%BCnl%C3%BCk%20tekil%20ziyaret&amp;color=00bcd4" alt="14 günlük tekil GitHub ziyareti">
 </p>
+
+İstatistik yalnızca GitHub'ın 14 günlük toplu ziyaret/klon sayacıdır; eklenti cihazdan kimlik, izleme geçmişi veya telemetri göndermez ve aktif kullanıcı sayısı olarak yorumlanmamalıdır.
 
 <details>
 <summary>⚖ DMCA</summary>
@@ -45,9 +47,9 @@ TurkSpor, üçüncü taraf servislerden bağlantı ve oynatma bilgisi alan Cloud
   </a>
 </p>
 
-**Kısa kod: `turkspor` · İstediğiniz sağlayıcıyı ayrı kurun.**
+**Önerilen yöntem: güncel CloudStream Beta / pre-release sürümünde `!turkspor` yazın. İstediğiniz sağlayıcıyı ayrı kurabilirsiniz.**
 
-**Kısa link: `[https://l24.im/mK1h6]` ile eklentiyi kur.**
+Eski `cutt.ly` kısa bağlantıları Türkiye'den açılamayabildiği için ünlemsiz eski kod yerine Beta'daki yeni `py.md` yöntemi kullanılır.
 
 Cloudstream → Ayarlar → Eklentiler → Depo ekle. Kısa kod açılmazsa tam adres:
 
