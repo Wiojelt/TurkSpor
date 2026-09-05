@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <strong>Önce destek eklentisi, ardından 18 spor sağlayıcısı ayrı ayrı.</strong><br>
-  Her sağlayıcının ⚙ ekranında bağlantı kontrolü ve güncelleme durumu bulunur. Aslan TV kanalları kendi eklentisinde topludur.
+  <strong>Her sağlayıcının ⚙ ekranında bağlantı kontrolü ve güncelleme durumu bulunur. Aslan TV kanalları kendi eklentisinde topludur.</strong><br>
+  
 </p>
 
 <p align="center">
