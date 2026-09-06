@@ -89,9 +89,6 @@ Depo eklenmiyorsa [WARP](https://one.one.one.one/) açın. İzlerken gerekip ger
 
 <p align="center">
   Kaynakları hazırlayan ve güncel tutan tüm sağlayıcılara teşekkürler ♥<br>
-  <strong>Aslan TV yapımcısına ayrıca teşekkür ederiz.</strong><br>
-  Kaynaklarını TurkSpor’da derlememize verdiği izin ve emeği için minnettarız.<br>
-  Bu listelerin asıl kaynağı Aslan TV’dir.
 </p>
 
 <p align="center">
