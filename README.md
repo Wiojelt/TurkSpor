@@ -90,7 +90,7 @@ Depo eklenmiyorsa [WARP](https://one.one.one.one/) açın. İzlerken gerekip ger
     <td align="center"><img src="assets/providers/DaddyLive.jpg" width="56" height="56" alt="DaddyLive"><br>DaddyLive</td>
     <td align="center"><img src="assets/providers/StreamEast.png" width="56" height="56" alt="StreamEast"><br>StreamEast</td>
     <td align="center"><img src="assets/providers/Hesgoal.png" width="56" height="56" alt="Hesgoal"><br>Hesgoal</td>
-    <td align="center"><img src="assets/providers/LiveXTV.svg" width="56" height="56" alt="LiveXTV"><br>LiveXTV</td>
+    <td align="center"><img src="assets/providers/LiveXTV.png" width="56" height="56" alt="LiveXTV"><br>LiveXTV</td>
   </tr>
   <tr>
     <td align="center"><img src="assets/providers/PapazSports.png" width="56" height="56" alt="PapazSports"><br>PapazSports</td>
