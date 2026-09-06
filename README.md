@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="TurkSpor — 20 ayrı spor sağlayıcısı, 150+ kanal ve otomatik güncelleme. Beta kısa kod: !turkspor." width="100%">
+  <img src="assets/banner.png" alt="TurkSpor — 26 ayrı spor sağlayıcısı, 150+ kanal ve otomatik güncelleme. Beta kısa kod: !turkspor." width="100%">
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <strong>Önce destek eklentisi, ardından 20 spor sağlayıcısı ayrı ayrı.</strong><br>
+  <strong>Önce destek eklentisi, ardından 26 spor sağlayıcısı ayrı ayrı.</strong><br>
   Her sağlayıcının ⚙ ekranında bağlantı kontrolü ve güncelleme durumu bulunur. Aslan TV kanalları kendi eklentisinde topludur.
 </p>
 
@@ -85,10 +85,24 @@ Depo eklenmiyorsa [WARP](https://one.one.one.one/) açın. İzlerken gerekip ger
     <td align="center"><img src="assets/providers/BetmatikTV.png" width="56" height="56" alt="Betmatik TV"><br>Betmatik TV</td>
     <td align="center"><img src="assets/providers/NetVGold.png" width="56" height="56" alt="NETV Gold"><br>NETV Gold</td>
   </tr>
+  <tr>
+    <td align="center"><img src="assets/providers/Ntvs.png" width="56" height="56" alt="NTVStream"><br>NTVStream</td>
+    <td align="center"><img src="assets/providers/DaddyLive.jpg" width="56" height="56" alt="DaddyLive"><br>DaddyLive</td>
+    <td align="center"><img src="assets/providers/StreamEast.png" width="56" height="56" alt="StreamEast"><br>StreamEast</td>
+    <td align="center"><img src="assets/providers/Hesgoal.png" width="56" height="56" alt="Hesgoal"><br>Hesgoal</td>
+    <td align="center"><img src="assets/providers/LiveXTV.svg" width="56" height="56" alt="LiveXTV"><br>LiveXTV</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/providers/PapazSports.png" width="56" height="56" alt="PapazSports"><br>PapazSports</td>
+    <td colspan="4" align="center">Her sağlayıcının kendi ⚙ güncelleme kontrolü vardır.</td>
+  </tr>
 </table>
 
 <p align="center">
   Kaynakları hazırlayan ve güncel tutan tüm sağlayıcılara teşekkürler ♥<br>
+  <strong>Aslan TV yapımcısına ayrıca teşekkür ederiz.</strong><br>
+  Kaynaklarını TurkSpor’da derlememize verdiği izin ve emeği için minnettarız.<br>
+  Bu listelerin asıl kaynağı Aslan TV’dir.
 </p>
 
 <p align="center">

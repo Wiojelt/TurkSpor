@@ -6,6 +6,12 @@
         "https://betmatiktv155.com/"
       ]
     },
+    "ntvs": {"candidates": ["https://www.ntvs.cx/"]},
+    "daddylive": {"gateways": ["https://daddylive.pk/"], "candidates": ["https://dlhd.st/", "https://dlstreams.st/", "https://dlhd.pk/"]},
+    "streameast": {"gateways": ["https://streamea.st/", "https://gostreameast.is/"], "candidates": ["https://v2.streameast.ga/"]},
+    "hesgoal": {"candidates": ["https://hesgoal.ltd/"]},
+    "livextv": {"candidates": ["https://livextv.pro/", "https://livextv.hybrows.workers.dev/"]},
+    "papazsports": {"gateways": ["https://bit.ly/m/papazsports", "http://sy-re.com/papaz-web"], "candidates": ["https://www.papazsports1022.pro/", "https://www.papazsports1023.pro/"]},
     "ardaspor": {
       "gateways": ["https://www.ardasporgiris.site/"],
       "candidates": ["https://ardaspor30.top/"]
