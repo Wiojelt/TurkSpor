@@ -1,6 +1,11 @@
 {
   "schemaVersion": 1,
   "sources": {
+    "betmatiktv": {
+      "candidates": [
+        "https://betmatiktv155.com/"
+      ]
+    },
     "ardaspor": {
       "gateways": ["https://www.ardasporgiris.site/"],
       "candidates": ["https://ardaspor30.top/"]
@@ -13,6 +18,7 @@
     "mackeyfi": {"candidates": ["https://www.mackeyfi559.sbs/", "https://www.canlimaclar559.sbs/"]},
     "zbahistv": {"candidates": ["https://zbahistv65.com/", "https://99baywintv.live/"]},
     "intersportv": {"candidates": ["https://intersportv1.live/"]},
-    "beyazelma": {"candidates": ["https://beyazelma78.com/"]}
+    "beyazelma": {"candidates": ["https://beyazelma78.com/"]},
+    "kralsportshd": {"gateways": ["https://kralsportshd4.xyz/"], "candidates": ["https://kralsportshd4.xyz/"]}
   }
 }

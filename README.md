@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="TurkSpor — Türk spor yayınları tek yerde. 38 kaynak, 150+ kanal, 1080p desteği. Kısa kod: turkspor. WARP ile eklentiyi kur." width="100%">
+  <img src="assets/banner.png" alt="TurkSpor — 20 ayrı spor sağlayıcısı, 150+ kanal ve otomatik güncelleme. Beta kısa kod: !turkspor." width="100%">
 </p>
 
 <p align="center">
@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <strong>Her sağlayıcının ⚙ ekranında bağlantı kontrolü ve güncelleme durumu bulunur. Aslan TV kanalları kendi eklentisinde topludur.</strong><br>
-  
+  <strong>Önce destek eklentisi, ardından 20 spor sağlayıcısı ayrı ayrı.</strong><br>
+  Her sağlayıcının ⚙ ekranında bağlantı kontrolü ve güncelleme durumu bulunur. Aslan TV kanalları kendi eklentisinde topludur.
 </p>
 
 <p align="center">
@@ -25,10 +25,7 @@
 <p align="center">
   <a href="https://github.com/Wiojelt"><img src="https://img.shields.io/badge/%40wiojelt-24292f?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub @wiojelt"></a>
   <a href="https://t.me/wioj3lt"><img src="https://img.shields.io/badge/%40wioj3lt-24292f?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram @wioj3lt"></a>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWiojelt%2FTurkSpor%2Fmain%2Fstats.json&amp;query=%24.views.uniques&amp;label=14%20g%C3%BCnl%C3%BCk%20tekil%20ziyaret&amp;color=00bcd4" alt="14 günlük tekil GitHub ziyareti">
 </p>
-
-İstatistik yalnızca GitHub'ın 14 günlük toplu ziyaret/klon sayacıdır; eklenti cihazdan kimlik, izleme geçmişi veya telemetri göndermez ve aktif kullanıcı sayısı olarak yorumlanmamalıdır.
 
 <details>
 <summary>⚖ DMCA</summary>
@@ -61,28 +58,32 @@ Depo eklenmiyorsa [WARP](https://one.one.one.one/) açın. İzlerken gerekip ger
 
 <table align="center">
   <tr>
-    <td align="center"><img src="assets/providers/SelcukSports.png" width="56" height="56" alt="SelçukSports"><br>🟢</td>
-    <td align="center"><img src="assets/providers/InatTV.png" width="56" height="56" alt="İnat TV"><br>🟢</td>
-    <td align="center"><img src="assets/providers/Crex.png" width="56" height="56" alt="Crex"><br>🟢</td>
-    <td align="center"><img src="assets/providers/MahsunSports.jpg" width="56" height="56" alt="MahsunSports"><br>🟢</td>
-    <td align="center"><img src="assets/providers/ArdaSpor.png" width="56" height="56" alt="ArdaSpor"><br>🟢</td>
-    <td align="center"><img src="assets/providers/MacKeyfi.png" width="56" height="56" alt="MaçKeyfi"><br>🔴</td>
+    <td align="center"><img src="assets/providers/SelcukSports.png" width="56" height="56" alt="SelçukSports"><br>SelçukSports</td>
+    <td align="center"><img src="assets/providers/Taraftarium24.png" width="56" height="56" alt="Taraftarium24"><br>Taraftarium24</td>
+    <td align="center"><img src="assets/providers/InatTV.png" width="56" height="56" alt="İnat TV"><br>İnat TV</td>
+    <td align="center"><img src="assets/providers/Crex.png" width="56" height="56" alt="Crex"><br>Crex</td>
+    <td align="center"><img src="assets/providers/AslanTV.png" width="56" height="56" alt="Aslan TV"><br>Aslan TV</td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/providers/BeyazElma.png" width="56" height="56" alt="BeyazElma"><br>🟢</td>
-    <td align="center"><img src="assets/providers/InatBox.webp" width="56" height="56" alt="İnat Box"><br>🟢</td>
-    <td align="center"><img src="assets/providers/AslanTV.png" width="56" height="56" alt="Aslan TV"><br>🟢</td>
-    <td align="center"><img src="assets/providers/Taraftarium24.png" width="56" height="56" alt="Taraftarium24"><br>🔴</td>
-    <td align="center"><img src="assets/providers/ZbahisTV.png" width="56" height="56" alt="ZbahisTV"><br>🔴</td>
-    <td align="center"><img src="assets/providers/InterSporTV.png" width="56" height="56" alt="InterSporTV"><br>🔴</td>
+    <td align="center"><img src="assets/providers/InatBox.webp" width="56" height="56" alt="İnat Box"><br>İnat Box</td>
+    <td align="center"><img src="assets/providers/BeyazElma.png" width="56" height="56" alt="BeyazElma"><br>BeyazElma</td>
+    <td align="center"><img src="assets/providers/MahsunSports.jpg" width="56" height="56" alt="MahsunSports"><br>MahsunSports</td>
+    <td align="center"><img src="assets/providers/ArdaSpor.png" width="56" height="56" alt="ArdaSpor"><br>ArdaSpor</td>
+    <td align="center"><img src="assets/providers/MacKeyfi.png" width="56" height="56" alt="MaçKeyfi"><br>MaçKeyfi</td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/providers/KralSporHD.png" width="56" height="56" alt="KralSporHD"><br>🟢</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td align="center"><img src="assets/providers/ZbahisTV.png" width="56" height="56" alt="Zbahis TV"><br>Zbahis TV</td>
+    <td align="center"><img src="assets/providers/InterSporTV.png" width="56" height="56" alt="InterSporTV"><br>InterSporTV</td>
+    <td align="center"><img src="assets/providers/KralSporHD.png" width="56" height="56" alt="KralSporHD"><br>KralSporHD</td>
+    <td align="center"><img src="assets/providers/Streamed.png" width="56" height="56" alt="Streamed"><br>Streamed</td>
+    <td align="center"><img src="assets/providers/VivoXSpor.png" width="56" height="56" alt="VivoX Spor"><br>VivoX Spor</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/providers/DomatesTV.webp" width="56" height="56" alt="Domates TV"><br>Domates TV</td>
+    <td align="center"><img src="assets/providers/DominoTV.png" width="56" height="56" alt="Domino TV"><br>Domino TV</td>
+    <td align="center"><img src="assets/providers/TRGoals.png" width="56" height="56" alt="TRGoals"><br>TRGoals</td>
+    <td align="center"><img src="assets/providers/BetmatikTV.png" width="56" height="56" alt="Betmatik TV"><br>Betmatik TV</td>
+    <td align="center"><img src="assets/providers/NetVGold.png" width="56" height="56" alt="NETV Gold"><br>NETV Gold</td>
   </tr>
 </table>
 
