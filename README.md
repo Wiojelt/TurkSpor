@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="TurkSpor — 26 ayrı spor sağlayıcısı, 150+ kanal ve otomatik güncelleme. Beta kısa kod: !turkspor." width="100%">
+  <img src="assets/banner.png" alt="TurkSpor — 27 ayrı spor sağlayıcısı, 150+ kanal ve otomatik güncelleme. Beta kısa kod: !turkspor." width="100%">
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <strong>Önce destek eklentisi, ardından 26 spor sağlayıcısı ayrı ayrı.</strong><br>
+  <strong>Önce destek eklentisi, ardından 27 spor sağlayıcısı ayrı ayrı.</strong><br>
   Her sağlayıcının ⚙ ekranında bağlantı kontrolü ve güncelleme durumu bulunur. Aslan TV kanalları kendi eklentisinde topludur.
 </p>
 
@@ -94,7 +94,8 @@ Depo eklenmiyorsa [WARP](https://one.one.one.one/) açın. İzlerken gerekip ger
   </tr>
   <tr>
     <td align="center"><img src="assets/providers/PapazSports.png" width="56" height="56" alt="PapazSports"><br>PapazSports</td>
-    <td colspan="4" align="center">Her sağlayıcının kendi ⚙ güncelleme kontrolü vardır.</td>
+    <td align="center"><img src="https://www.google.com/s2/favicons?domain=jestyayin.org&amp;sz=128" width="56" height="56" alt="JestYayın"><br>JestYayın</td>
+    <td colspan="3" align="center">Her sağlayıcının kendi ⚙ güncelleme kontrolü vardır.</td>
   </tr>
 </table>
 
