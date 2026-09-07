@@ -1,6 +1,6 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/d44e243700e05920fce2042b52c60c31d3407752/TurkSporDestek.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/9c80432abc18bd77b10b303bfb613ed1d27089c3/TurkSporDestek.cs3",
     "status": 1,
     "version": 3,
     "name": "00 · TurkSpor'a destek ol ☕",
@@ -9,7 +9,7 @@
       "Wiojelt"
     ],
     "description": "TurkSpor’a destek ol ☕ · @wiojelt · made with ♥",
-    "fileSize": 76076,
+    "fileSize": 79841,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -17,10 +17,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/support-qr.png",
     "apiVersion": 1,
-    "fileHash": "sha256-580674c4a1985b6402f80be288ee88513ab1295aceb13d0a4528c2db01b55361"
+    "fileHash": "sha256-d9ba149c7e5d61040f1633927244e3eb9a8a61e3b737d9da94e6c1df023b5ae7"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/d44e243700e05920fce2042b52c60c31d3407752/ArdaSpor.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/9c80432abc18bd77b10b303bfb613ed1d27089c3/ArdaSpor.cs3",
     "status": 3,
     "version": 11,
     "name": "ArdaSpor",
@@ -29,7 +29,7 @@
       "Wiojelt"
     ],
     "description": "🟢 Kaynak: ArdaSpor · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 104373,
+    "fileSize": 108015,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -37,10 +37,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ArdaSpor.png",
     "apiVersion": 1,
-    "fileHash": "sha256-5dc09365824bb9d644ae36f86e7547a10c0f3eb318d3ad2d62019fe8f211f90a"
+    "fileHash": "sha256-9593c65dc25465ba888bd83f03e51a757a9c69ab2503ebf1076ffb92972985b2"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/d44e243700e05920fce2042b52c60c31d3407752/AslanTV.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/9c80432abc18bd77b10b303bfb613ed1d27089c3/AslanTV.cs3",
     "status": 3,
     "version": 10,
     "name": "AslanTV",
@@ -49,7 +49,7 @@
       "Wiojelt"
     ],
     "description": "🟢 Kaynak: Aslan TV · Derleme izni ve emeği için yapımcısına teşekkürler ♥ · @wiojelt · WARP gerekebilir.",
-    "fileSize": 178067,
+    "fileSize": 181056,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -57,10 +57,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/AslanTV.png",
     "apiVersion": 1,
-    "fileHash": "sha256-ae29303bc0aef4bbf3e86c43e47a755d8a3428d8fc95038bd0bf1a0116144cc6"
+    "fileHash": "sha256-0f127459973ff020cb0841556b04d72cae6f61778616aeb4c4c2688a94708273"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/d44e243700e05920fce2042b52c60c31d3407752/BetmatikTV.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/9c80432abc18bd77b10b303bfb613ed1d27089c3/BetmatikTV.cs3",
     "status": 3,
     "version": 2,
     "name": "BetmatikTV",
@@ -69,7 +69,7 @@
       "Wiojelt"
     ],
     "description": "Betmatik TV canlı spor kanalları · otomatik alan güncelleme",
-    "fileSize": 126031,
+    "fileSize": 129775,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -77,10 +77,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BetmatikTV.png",
     "apiVersion": 1,
-    "fileHash": "sha256-305b14669d008154a631c8eef3bf9713c4a5e579d9687f417e6842cdec1cef6c"
+    "fileHash": "sha256-1288e25128d796dd81b0296c909f17f96ee81ee189b617a5e100154dea572969"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/d44e243700e05920fce2042b52c60c31d3407752/BeyazElma.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/9c80432abc18bd77b10b303bfb613ed1d27089c3/BeyazElma.cs3",
     "status": 3,
     "version": 10,
     "name": "BeyazElma",
@@ -89,7 +89,7 @@
       "Wiojelt"
     ],
     "description": "🟢 Kaynak: BeyazElma · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 126064,
+    "fileSize": 129784,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -97,10 +97,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BeyazElma.png",
     "apiVersion": 1,
-    "fileHash": "sha256-bb7dae9b712cb2a716a823e2df60d4ad66b00277db8c4503c51b98a8f086502f"
+    "fileHash": "sha256-a9bc633cd5825048fbdd1f13bb17f10ce31a582f2281d5cd8dd46b86cbe7ecc1"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/d44e243700e05920fce2042b52c60c31d3407752/Crex.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/9c80432abc18bd77b10b303bfb613ed1d27089c3/Crex.cs3",
     "status": 3,
     "version": 9,
     "name": "Crex",
@@ -109,7 +109,7 @@
       "Wiojelt"
     ],
     "description": "🟢 Kaynak: Crex · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 104948,
+    "fileSize": 108553,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -117,19 +117,19 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Crex.png",
     "apiVersion": 1,
-    "fileHash": "sha256-642e2eed2307ca5c355eaa43c819371312f70b840513151656d93566c747a198"
+    "fileHash": "sha256-1c4d322fec33edd00f05b1f8cde6acca29c4de51c473349d7a14c4addfbd4cf1"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/d44e243700e05920fce2042b52c60c31d3407752/DaddyLive.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/9c80432abc18bd77b10b303bfb613ed1d27089c3/DaddyLive.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "DaddyLive",
     "internalName": "DaddyLive",
     "authors": [
       "Wiojelt"
     ],
     "description": "DaddyLive 7/24 spor kanalları, çoklu alan adı ve tokenlı oynatıcı desteği.",
-    "fileSize": 76773,
+    "fileSize": 80435,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -137,10 +137,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/DaddyLive.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-f03fc02d316b1859f934ef21fb07c476727f72cd479501f28e971e2ce9a6b43b"
+    "fileHash": "sha256-57b666d5618ecc929252ffae6849a654488b4fa683e06150135011f48e376a7a"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/d44e243700e05920fce2042b52c60c31d3407752/DomatesTV.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/9c80432abc18bd77b10b303bfb613ed1d27089c3/DomatesTV.cs3",
     "status": 3,
     "version": 4,
     "name": "DomatesTV",
@@ -149,7 +149,7 @@
       "Wiojelt"
     ],
     "description": "Domates TV dinamik spor kanalları",
-    "fileSize": 89822,
+    "fileSize": 93112,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -157,10 +157,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/DomatesTV.webp",
     "apiVersion": 1,
-    "fileHash": "sha256-a0eaf86fde04f8349c41fc36796ea4647c03402bf5356884d6b40ed07c394c66"
+    "fileHash": "sha256-19a99ee3236f94d71eb59a796f353e6837e12a7509fe0d94bf3ed6bf9d721d6d"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/d44e243700e05920fce2042b52c60c31d3407752/DominoTV.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/9c80432abc18bd77b10b303bfb613ed1d27089c3/DominoTV.cs3",
     "status": 3,
     "version": 4,
     "name": "DominoTV",
@@ -169,7 +169,7 @@
       "Wiojelt"
     ],
     "description": "Domino TV 4.0 dinamik spor kanalları",
-    "fileSize": 90367,
+    "fileSize": 93532,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -177,10 +177,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/DominoTV.png",
     "apiVersion": 1,
-    "fileHash": "sha256-0d90196edf23423e254eb3b2cdc9261ba874714bdef5b68c6fc08016d58631f3"
+    "fileHash": "sha256-a414cb733cc37a0e0ca676d832d1917a12ad386770aff1f0032596240e0a16fe"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/d44e243700e05920fce2042b52c60c31d3407752/Hesgoal.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/9c80432abc18bd77b10b303bfb613ed1d27089c3/Hesgoal.cs3",
     "status": 1,
     "version": 2,
     "name": "Hesgoal",
@@ -189,7 +189,7 @@
       "Wiojelt"
     ],
     "description": "Hesgoal canlı maç listesi, yenilenen oynatıcı adresleri ve güncelleme ekranı.",
-    "fileSize": 76305,
+    "fileSize": 80000,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -197,10 +197,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Hesgoal.png",
     "apiVersion": 1,
-    "fileHash": "sha256-9813c03ab97bd9f311c79e78220ded92e27f148d455d0d272671b282eede1a7b"
+    "fileHash": "sha256-9cea4e5780276e86b152034e9079e4f123f31f9907d05e4b20634be615099a0b"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/d44e243700e05920fce2042b52c60c31d3407752/InatBox.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/9c80432abc18bd77b10b303bfb613ed1d27089c3/InatBox.cs3",
     "status": 3,
     "version": 8,
     "name": "InatBox",
@@ -213,7 +213,7 @@
       "keyiflerolsun"
     ],
     "description": "🟢 Kaynak: İnat Box · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 140580,
+    "fileSize": 143866,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -221,10 +221,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InatBox.webp",
     "apiVersion": 1,
-    "fileHash": "sha256-5346b9e448ec8e9dc0b5d8a3af438e46fda88a5eb60d98b2e0246a0b169bdde4"
+    "fileHash": "sha256-e9037517c0b0249a51ff254c8e35c90bf9e1fe4c990ef6d617f8f98bfcc82ef0"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/d44e243700e05920fce2042b52c60c31d3407752/InatTV.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/9c80432abc18bd77b10b303bfb613ed1d27089c3/InatTV.cs3",
     "status": 3,
     "version": 10,
     "name": "InatTV",
@@ -233,7 +233,7 @@
       "Wiojelt"
     ],
     "description": "🟢 Kaynak: İnat TV · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 101855,
+    "fileSize": 105531,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -241,10 +241,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InatTV.png",
     "apiVersion": 1,
-    "fileHash": "sha256-b72bb70e3412b24893c5172edf1361a158569c187e4e6258507453dd60c77a16"
+    "fileHash": "sha256-d259a6c5302952d179c2be27e497474ea4175b93df5c448fa4e0bff6bcd6afb6"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/d44e243700e05920fce2042b52c60c31d3407752/InterSporTV.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/9c80432abc18bd77b10b303bfb613ed1d27089c3/InterSporTV.cs3",
     "status": 3,
     "version": 10,
     "name": "InterSporTV",
@@ -253,7 +253,7 @@
       "Wiojelt"
     ],
     "description": "🔴 Kaynak: InterSporTV · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 126023,
+    "fileSize": 129761,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -261,10 +261,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InterSporTV.png",
     "apiVersion": 1,
-    "fileHash": "sha256-032b4b2bad82903446de3b32b20b72bcb1111090e406399839ee616fb17d89c7"
+    "fileHash": "sha256-e914b16cd1d1bea4400cbb0ba19db32884a924ac2e0b9b00ac6c1d49c082a6fc"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/d44e243700e05920fce2042b52c60c31d3407752/KralSporHD.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/9c80432abc18bd77b10b303bfb613ed1d27089c3/KralSporHD.cs3",
     "status": 3,
     "version": 3,
     "name": "KralSporHD",
@@ -273,7 +273,7 @@
       "Wiojelt"
     ],
     "description": "👑 Kaynak: KralSporHD · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 101974,
+    "fileSize": 105590,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -281,10 +281,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/KralSporHD.png",
     "apiVersion": 1,
-    "fileHash": "sha256-b762688e6ad4ebbc2b676046289e09345becc0ed43753a419de90a724406d421"
+    "fileHash": "sha256-8695942f3d71eb97c706103d243d8c94f88fd31a24924c3429a1082513d686ca"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/d44e243700e05920fce2042b52c60c31d3407752/LiveXTV.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/9c80432abc18bd77b10b303bfb613ed1d27089c3/LiveXTV.cs3",
     "status": 1,
     "version": 3,
     "name": "LiveXTV",
@@ -293,7 +293,7 @@
       "Wiojelt"
     ],
     "description": "LiveXTV canlı spor API'si, yedek uç nokta ve çoklu yayın kaynakları.",
-    "fileSize": 76306,
+    "fileSize": 79996,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -301,10 +301,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/LiveXTV.png",
     "apiVersion": 1,
-    "fileHash": "sha256-b411bb693d4463d7b36e7ef10e8182d145fdb86d5594a3964141fb533dfcc4fe"
+    "fileHash": "sha256-e17dc8b0e28479ae516a3d2cbeecba5c10ba6955addd1852e82cb6443a0a1853"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/d44e243700e05920fce2042b52c60c31d3407752/MacKeyfi.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/9c80432abc18bd77b10b303bfb613ed1d27089c3/MacKeyfi.cs3",
     "status": 3,
     "version": 10,
     "name": "MacKeyfi",
@@ -313,7 +313,7 @@
       "Wiojelt"
     ],
     "description": "🔴 Kaynak: MaçKeyfi / Canlımaçlar · Emeği için teşekkürler ♥ · @wiojelt · WARP gerekebilir.",
-    "fileSize": 126033,
+    "fileSize": 129744,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -321,10 +321,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/MacKeyfi.png",
     "apiVersion": 1,
-    "fileHash": "sha256-1a416c81db1c1b4f5b5da8743d9b66ea15d31b402f5bcd0fe6d98fbc67ba2328"
+    "fileHash": "sha256-9ce216e7b0aa7eac1f6d6b9ab6ee0db68ca5d91e89abc1e1324d62dde18557be"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/d44e243700e05920fce2042b52c60c31d3407752/MahsunSports.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/9c80432abc18bd77b10b303bfb613ed1d27089c3/MahsunSports.cs3",
     "status": 3,
     "version": 9,
     "name": "MahsunSports",
@@ -333,7 +333,7 @@
       "Wiojelt"
     ],
     "description": "🟢 Kaynak: MahsunSports · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 103782,
+    "fileSize": 107439,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -341,10 +341,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/MahsunSports.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-fdd72054caae6b24ea1e7d0e8f7d6c8f666c05821385424b56c4e7807c9c440e"
+    "fileHash": "sha256-5f28f91b07125396717dd18207e6c4fff884ef30fb9d404b63890200645bd9cf"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/d44e243700e05920fce2042b52c60c31d3407752/NetVGold.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/9c80432abc18bd77b10b303bfb613ed1d27089c3/NetVGold.cs3",
     "status": 3,
     "version": 3,
     "name": "NetVGold",
@@ -353,7 +353,7 @@
       "Wiojelt"
     ],
     "description": "NETV Gold uygulamasının doğrulanmış spor kanalları",
-    "fileSize": 138729,
+    "fileSize": 141873,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -361,19 +361,19 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/NetVGold.png",
     "apiVersion": 1,
-    "fileHash": "sha256-ba5725345e1b2d6d4b0e8b97232edf058a1de5a84bdf78e93e496a3b5904f918"
+    "fileHash": "sha256-34676809c9fbaffd4dc43cc86d3f50bf97cf79400a1c8fb623cd2e41abcb7454"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/d44e243700e05920fce2042b52c60c31d3407752/Ntvs.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/9c80432abc18bd77b10b303bfb613ed1d27089c3/Ntvs.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "Ntvs",
     "internalName": "Ntvs",
     "authors": [
       "Wiojelt"
     ],
     "description": "NTVStream spor kanalları, arama tabanlı canlı katalog ve güncelleme ekranı.",
-    "fileSize": 76701,
+    "fileSize": 80407,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -381,10 +381,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Ntvs.png",
     "apiVersion": 1,
-    "fileHash": "sha256-8201bb8f71f0b193abac058e2902b506918a3727fdbfbcc0d11150cdfe77d3e1"
+    "fileHash": "sha256-4450a55393dd99d3483bf5fb39c5ae9e2c94caece3839ba290a3e6678229133b"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/d44e243700e05920fce2042b52c60c31d3407752/PapazSports.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/9c80432abc18bd77b10b303bfb613ed1d27089c3/PapazSports.cs3",
     "status": 1,
     "version": 1,
     "name": "PapazSports",
@@ -393,7 +393,7 @@
       "Wiojelt"
     ],
     "description": "PapazSports canlı kanal ve maç listesi, artan alan adı keşfi ve güncelleme ekranı.",
-    "fileSize": 137165,
+    "fileSize": 140443,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -401,10 +401,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/PapazSports.png",
     "apiVersion": 1,
-    "fileHash": "sha256-34b46a99d10867e46905ad0d4d03ea50ec51cf7745052d15c3f07f11f0016a07"
+    "fileHash": "sha256-36243b7b5d9d6b4843bc53e27e797a417536238f2a64bc7feeb5f42cd9f5422c"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/d44e243700e05920fce2042b52c60c31d3407752/SelcukSports.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/9c80432abc18bd77b10b303bfb613ed1d27089c3/SelcukSports.cs3",
     "status": 3,
     "version": 12,
     "name": "SelcukSports",
@@ -413,7 +413,7 @@
       "Wiojelt"
     ],
     "description": "🟢 Kaynak: SelçukSports · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 99818,
+    "fileSize": 103685,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -421,10 +421,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/SelcukSports.png",
     "apiVersion": 1,
-    "fileHash": "sha256-0fdcc85e02bb721fe6594deb80910d7d03118b9f42ff99d8cf159590eb9d3056"
+    "fileHash": "sha256-f06f28439b3bd80a4dadd71d14cacc0664c3a2323cb58c2594c9eb254b1e9d72"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/d44e243700e05920fce2042b52c60c31d3407752/StreamEast.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/9c80432abc18bd77b10b303bfb613ed1d27089c3/StreamEast.cs3",
     "status": 1,
     "version": 2,
     "name": "StreamEast",
@@ -433,7 +433,7 @@
       "Wiojelt"
     ],
     "description": "StreamEast canlı ve yaklaşan spor etkinlikleri, çoklu oynatıcı ve güncelleme ekranı.",
-    "fileSize": 76327,
+    "fileSize": 80028,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -441,10 +441,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/StreamEast.png",
     "apiVersion": 1,
-    "fileHash": "sha256-b98d28ff6360fde65d560020d71058c470bf24997af455871b07381204a4e1db"
+    "fileHash": "sha256-5b898eee0b6ffc090b44c92dbca0e93e3142dcdc291ad05a546d1d9df765d6fa"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/d44e243700e05920fce2042b52c60c31d3407752/Streamed.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/9c80432abc18bd77b10b303bfb613ed1d27089c3/Streamed.cs3",
     "status": 1,
     "version": 3,
     "name": "Streamed",
@@ -453,7 +453,7 @@
       "Wiojelt"
     ],
     "description": "🟢 Kaynak: Streamed • @Kraptor123 | @kekikanime · Futbol, Basketbol, Tenis, Kriket, Dövüş ve daha fazlası.",
-    "fileSize": 94364,
+    "fileSize": 97805,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -461,10 +461,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Streamed.png",
     "apiVersion": 1,
-    "fileHash": "sha256-7e8f18cc35713236e5a061b4ea93e1c404fa9bba29330ec3fa6d92374ab74d71"
+    "fileHash": "sha256-43f2a9e2485a8ce38ad7261badfea185928cf3ca20f05ce30e717309fb513b8c"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/d44e243700e05920fce2042b52c60c31d3407752/TRGoals.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/9c80432abc18bd77b10b303bfb613ed1d27089c3/TRGoals.cs3",
     "status": 3,
     "version": 2,
     "name": "TRGoals",
@@ -473,7 +473,7 @@
       "Wiojelt"
     ],
     "description": "TRGoals dinamik spor kanalları ve alan güncelleme ekranı",
-    "fileSize": 139010,
+    "fileSize": 142234,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -481,10 +481,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/TRGoals.png",
     "apiVersion": 1,
-    "fileHash": "sha256-893186e4c913b8de16661029f275a655252957b5a945af3c657a7b8f611392d8"
+    "fileHash": "sha256-52339b110d831c7f4bb3150be291b420747818534c29f87d776c094ae6773987"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/d44e243700e05920fce2042b52c60c31d3407752/Taraftarium24.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/9c80432abc18bd77b10b303bfb613ed1d27089c3/Taraftarium24.cs3",
     "status": 3,
     "version": 13,
     "name": "Taraftarium24",
@@ -493,7 +493,7 @@
       "Wiojelt"
     ],
     "description": "🔴 Kaynak: Taraftarium24 · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 100997,
+    "fileSize": 104745,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -501,10 +501,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Taraftarium24.png",
     "apiVersion": 1,
-    "fileHash": "sha256-17b2bf012737f791099436b6fcf35ce9e89c85db7140e8d456b372aa25c8f758"
+    "fileHash": "sha256-57ec4d7b2d874ea7c71ba11f7e84e4bbe253de867c043fd3525875d204119c03"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/d44e243700e05920fce2042b52c60c31d3407752/VivoXSpor.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/9c80432abc18bd77b10b303bfb613ed1d27089c3/VivoXSpor.cs3",
     "status": 3,
     "version": 4,
     "name": "VivoXSpor",
@@ -513,7 +513,7 @@
       "Wiojelt"
     ],
     "description": "VivoX uyumlu dinamik spor listesi",
-    "fileSize": 86352,
+    "fileSize": 89873,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -521,10 +521,10 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/VivoXSpor.png",
     "apiVersion": 1,
-    "fileHash": "sha256-ac06bbac433e140ef9b624263e067f5a37a5e84e376a0430034aac754e7c8a87"
+    "fileHash": "sha256-1d6c249ec3a9fa9132c471d67f0078a097cc1868a583496b77207a257305900b"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/d44e243700e05920fce2042b52c60c31d3407752/ZbahisTV.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/9c80432abc18bd77b10b303bfb613ed1d27089c3/ZbahisTV.cs3",
     "status": 3,
     "version": 10,
     "name": "ZbahisTV",
@@ -533,7 +533,7 @@
       "Wiojelt"
     ],
     "description": "🔴 Kaynak: Zbahis / Baywin TV · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 126020,
+    "fileSize": 129732,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -541,6 +541,6 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ZbahisTV.png",
     "apiVersion": 1,
-    "fileHash": "sha256-493da2e91aeb77b71fe1b7ef2495f8fbe43d45f41ba3c818ec01311b25c20e75"
+    "fileHash": "sha256-42b506a5ec91851fb3b0cd655b174e45151b7aaedd03298ada749e38b845e47b"
   }
 ]
