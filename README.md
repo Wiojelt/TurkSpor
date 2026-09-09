@@ -1,3 +1,5 @@
+<p align="center"><a href="NUVIO.md"><strong>Nuvio Desktop kurulumu (CNCVerse Bridge)</strong></a></p>
+
 <p align="center">
   <img src="assets/banner.png" alt="TurkSpor — 27 ayrı spor sağlayıcısı, 150+ kanal ve otomatik güncelleme. Beta kısa kod: !turkspor." width="100%">
 </p>
