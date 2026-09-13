@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/wiojelt"><img src="assets/support-qr.png" width="112" alt="Buy Me a Coffee — Wiojelt"></a><br>
-  <a href="https://buymeacoffee.com/wiojelt">Bir kahveyle destek ol ☕</a>
+  <a href="https://kreosus.com/wiojelt"><img src="assets/support-qr.png" width="112" alt="Kreosus — Wiojelt"></a><br>
+  <a href="https://kreosus.com/wiojelt">Kreosus üzerinden destek ol ☕</a>
 </p>
 
 <p align="center">
