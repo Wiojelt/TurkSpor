@@ -250,7 +250,7 @@
             "Wiojelt"
         ],
         "description": "🟢 Kaynak: İnat Box · Emeği için teşekkürler ♥ · @wiojelt",
-        "fileSize": 184667,
+        "fileSize": 62062,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
         "tvTypes": [
@@ -260,7 +260,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InatBox.webp",
         "apiVersion": 1,
-        "fileHash": "sha256-3d31ff337184b2e99f3f8796f31adbc59b9194b9bb6f3bc30637a8c0b429800d"
+        "fileHash": "sha256-cb6f6e232977ea568610e128213dd45136c9f845a6ee7b175ddfb0d844a952e9"
     },
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/47ddea9a8e6c222326bf18c57893456c2fbab36d/InatTV.cs3",
