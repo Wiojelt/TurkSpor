@@ -316,7 +316,7 @@
       "Wiojelt"
     ],
     "description": "JestYayin canlı maçlar ve spor kanalları",
-    "fileSize": 143075,
+    "fileSize": 138287,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -324,7 +324,7 @@
     ],
     "iconUrl": "https://www.jestyayin970.com/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-26ef43f652b1719ad1bfde6f53d1af3aad2e0601ba902ea79bc387aa04481444"
+    "fileHash": "a9e91f8339645382126f316f546d801105466716b4074f7a52813db87795696b"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/47ddea9a8e6c222326bf18c57893456c2fbab36d/KralSporHD.cs3",
