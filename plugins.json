@@ -324,7 +324,7 @@
     ],
     "iconUrl": "https://www.jestyayin970.com/logo.png",
     "apiVersion": 1,
-    "fileHash": "a9e91f8339645382126f316f546d801105466716b4074f7a52813db87795696b"
+    "fileHash": "sha256-a9e91f8339645382126f316f546d801105466716b4074f7a52813db87795696b"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/47ddea9a8e6c222326bf18c57893456c2fbab36d/KralSporHD.cs3",
@@ -686,7 +686,7 @@
     "language": "tr",
     "status": 3,
     "fileSize": 45437,
-    "fileHash": "88d53b796e2393846da36f08fca974d1ef071cd2b2e4b7d3e65b72d57bf29170",
+    "fileHash": "sha256-88d53b796e2393846da36f08fca974d1ef071cd2b2e4b7d3e65b72d57bf29170",
     "apiVersion": 1
   }
 ]
