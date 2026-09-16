@@ -241,28 +241,6 @@
         "fileHash": "sha256-b2b2ea838d2f3e236d71ef74ee0c89429cd3d53a50e8900201b004500d042626"
     },
     {
-        "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/1be52ea869bbd41c31c0ff39fa8598d53652a8eb/InatBox.cs3",
-        "status": 3,
-        "version": 16,
-        "name": "InatBox",
-        "internalName": "InatBox",
-        "authors": [
-            "Wiojelt"
-        ],
-        "description": "🟢 Kaynak: İnat Box · Emeği için teşekkürler ♥ · @wiojelt",
-        "fileSize": 62062,
-        "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-        "language": "tr",
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Live"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InatBox.webp",
-        "apiVersion": 1,
-        "fileHash": "sha256-cb6f6e232977ea568610e128213dd45136c9f845a6ee7b175ddfb0d844a952e9"
-    },
-    {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/47ddea9a8e6c222326bf18c57893456c2fbab36d/InatTV.cs3",
         "status": 3,
         "version": 10,
