@@ -642,5 +642,25 @@
         "fileSize": 68841,
         "fileHash": "sha256-0546e199b22f28a305aea257e0780f687d47c4f77ccd00040f495f78536b11c8",
         "apiVersion": 1
+    },
+    {
+        "name": "TurkSpor",
+        "internalName": "TurkSpor",
+        "version": 4,
+        "description": "17 spor sağlayıcısı tek pakette. İstenen sağlayıcı eklenti ayarlarından açılıp kapatılabilir.",
+        "authors": [
+            "Wiojelt"
+        ],
+        "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+        "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/TurkSpor.cs3",
+        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png",
+        "tvTypes": [
+            "Live"
+        ],
+        "language": "tr",
+        "status": 3,
+        "fileSize": 464730,
+        "fileHash": "sha256-4694696b732f9ac17a29c5818b72d8be5771b95aa66de3507b478ac25aae3018",
+        "apiVersion": 1
     }
 ]
