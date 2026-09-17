@@ -662,5 +662,47 @@
         "fileSize": 464730,
         "fileHash": "sha256-4694696b732f9ac17a29c5818b72d8be5771b95aa66de3507b478ac25aae3018",
         "apiVersion": 1
+    },
+    {
+        "name": "BasketballReplays",
+        "internalName": "BasketballReplays",
+        "version": 1,
+        "description": "NBA maç tekrarları, playoff serileri ve basketbol karşılaşmaları full replay yayını.",
+        "authors": [
+            "Wiojelt"
+        ],
+        "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+        "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/BasketballReplays.cs3",
+        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png",
+        "tvTypes": [
+            "Movie",
+            "Others"
+        ],
+        "language": "en",
+        "status": 1,
+        "fileSize": 105729,
+        "fileHash": "sha256-3fc5500189cfa29bee08d5b6117bf6d3c0f3b2ef132cb14525022057a6a06ac9",
+        "apiVersion": 1
+    },
+    {
+        "name": "BasketballVideo",
+        "internalName": "BasketballVideo",
+        "version": 1,
+        "description": "NBA, WNBA, Euroleague ve NCAA basketbol maç tekrarları full HD replay akışları.",
+        "authors": [
+            "Wiojelt"
+        ],
+        "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+        "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/BasketballVideo.cs3",
+        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png",
+        "tvTypes": [
+            "Movie",
+            "Others"
+        ],
+        "language": "en",
+        "status": 1,
+        "fileSize": 105716,
+        "fileHash": "sha256-c7873a18c5cb41453416cd06a9cfc562a531dec00733a94b1ee3996669cc6482",
+        "apiVersion": 1
     }
 ]
