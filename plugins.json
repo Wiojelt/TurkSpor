@@ -665,34 +665,44 @@
   },
   {
     "name": "BasketballReplays",
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/BasketballReplays.cs3",
+    "internalName": "BasketballReplays",
+    "version": 1,
+    "description": "BasketballReplays · Full game replays (NBA, EuroLeague)",
+    "authors": [
+      "Wiojelt"
+    ],
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-    "language": "en",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/BasketballReplays.cs3",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png",
     "tvTypes": [
       "Movie",
       "Others"
     ],
-    "status": 1,
-    "apiVersion": 1,
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png",
-    "fileHash": "df742c964f611e87461d9208c9c1e8fc81bc0d73e4b14a46ada9190d7ae5a876",
+    "language": "en",
+    "status": 3,
     "fileSize": 106651,
-    "version": 2
+    "fileHash": "sha256-df742c964f611e87461d9208c9c1e8fc81bc0d73e4b14a46ada9190d7ae5a876",
+    "apiVersion": 1
   },
   {
     "name": "BasketballVideo",
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/BasketballVideo.cs3",
+    "internalName": "BasketballVideo",
+    "version": 1,
+    "description": "BasketballVideo · Game replays & highlights",
+    "authors": [
+      "Wiojelt"
+    ],
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-    "language": "en",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/BasketballVideo.cs3",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png",
     "tvTypes": [
       "Movie",
       "Others"
     ],
-    "status": 1,
-    "apiVersion": 1,
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png",
-    "fileHash": "6daa054653ca9817dc7c5816b86596db0cf8d09b111dc1fb17a000094f477964",
+    "language": "en",
+    "status": 3,
     "fileSize": 109339,
-    "version": 2
+    "fileHash": "sha256-6daa054653ca9817dc7c5816b86596db0cf8d09b111dc1fb17a000094f477964",
+    "apiVersion": 1
   }
 ]
