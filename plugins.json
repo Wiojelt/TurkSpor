@@ -1,25 +1,5 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/47ddea9a8e6c222326bf18c57893456c2fbab36d/TurkSporDestek.cs3",
-        "status": 1,
-        "version": 3,
-        "name": "00 · TurkSpor'a destek ol ☕",
-        "internalName": "TurkSporDestek",
-        "authors": [
-            "Wiojelt"
-        ],
-        "description": "TurkSpor’a destek ol ☕ · @wiojelt · made with ♥",
-        "fileSize": 79138,
-        "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-        "language": "tr",
-        "tvTypes": [
-            "Others"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/support-qr.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-b8a3491acc9dbb02668fa265f0a80378965039a7267885e4e36a81e05ce00286"
-    },
-    {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/47ddea9a8e6c222326bf18c57893456c2fbab36d/ArdaSpor.cs3",
         "status": 3,
         "version": 11,
