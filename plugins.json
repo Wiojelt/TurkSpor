@@ -662,5 +662,47 @@
     "fileSize": 464730,
     "fileHash": "sha256-4694696b732f9ac17a29c5818b72d8be5771b95aa66de3507b478ac25aae3018",
     "apiVersion": 1
+  },
+  {
+    "name": "BasketballReplays",
+    "internalName": "BasketballReplays",
+    "version": 2,
+    "description": "BasketballReplays · Full game replays (NBA, EuroLeague)",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/BasketballReplays.cs3",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png",
+    "tvTypes": [
+      "Movie",
+      "Others"
+    ],
+    "language": "en",
+    "status": 3,
+    "fileSize": 106852,
+    "fileHash": "sha256-e2b599c5d992ea71566897f7df96921cbf9e8bd2913b8084ce7c25fe70cde0b5",
+    "apiVersion": 1
+  },
+  {
+    "name": "BasketballVideo",
+    "internalName": "BasketballVideo",
+    "version": 3,
+    "description": "BasketballVideo · Game replays & highlights (Afiş destekli)",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/BasketballVideo.cs3",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png",
+    "tvTypes": [
+      "Movie",
+      "Others"
+    ],
+    "language": "en",
+    "status": 3,
+    "fileSize": 112945,
+    "fileHash": "sha256-40829311b5e8065fd35383843cb0f37d991bf7e4ab7fe9368fa44039c8295a29",
+    "apiVersion": 1
   }
 ]
