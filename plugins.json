@@ -626,26 +626,6 @@
     "fileHash": "sha256-d963e1c6d0659bb8c0e967e1cc99d1408b97fc7b38b9e5e3c2f7ca93e74712d9"
   },
   {
-    "name": "TurkSpor",
-    "internalName": "TurkSpor",
-    "version": 3,
-    "description": "17 spor sağlayıcısı tek pakette. İstenen sağlayıcı eklenti ayarlarından açılıp kapatılabilir.",
-    "authors": [
-      "Wiojelt"
-    ],
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/TurkSpor.cs3",
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png",
-    "tvTypes": [
-      "Live"
-    ],
-    "language": "tr",
-    "status": 3,
-    "fileSize": 464730,
-    "fileHash": "sha256-4694696b732f9ac17a29c5818b72d8be5771b95aa66de3507b478ac25aae3018",
-    "apiVersion": 1
-  },
-  {
     "name": "v10 Spor",
     "internalName": "BirdirbirIPTV",
     "version": 21,
