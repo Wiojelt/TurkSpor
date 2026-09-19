@@ -263,32 +263,6 @@
     "fileHash": "sha256-b2b2ea838d2f3e236d71ef74ee0c89429cd3d53a50e8900201b004500d042626"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/InatBox.cs3",
-    "status": 3,
-    "version": 16,
-    "name": "InatBox",
-    "internalName": "InatBox",
-    "authors": [
-      "Wiojelt",
-      "murattunc05",
-      "feroxx",
-      "JustRelaxable",
-      "keyiflerolsun"
-    ],
-    "description": "🟢 Kaynak: İnat Box · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 213341,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Live"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InatBox.webp",
-    "apiVersion": 1,
-    "fileHash": "sha256-ae6a7da406476260604e3d112fc4f25bfe821717ab965bc7c64e8aaaea579bfe"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/47ddea9a8e6c222326bf18c57893456c2fbab36d/InatTV.cs3",
     "status": 3,
     "version": 10,
@@ -730,5 +704,27 @@
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ZbahisTV.png",
     "apiVersion": 1,
     "fileHash": "sha256-90c6400f9f4af32049df67103058bfcf2f4fd92519958d560299eb9616d56422"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/InatBox.cs3",
+    "status": 3,
+    "version": 60,
+    "name": "InatBox",
+    "internalName": "InatBox",
+    "authors": [
+      "Dr.Octagon"
+    ],
+    "description": "🟢 Kaynak: İnat Box · Emeği için teşekkürler ♥ · @wiojelt",
+    "fileSize": 49715,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InatBox.webp",
+    "apiVersion": 1,
+    "fileHash": "sha256-9838f0436b5195c4d8961da15eba3049491b8a673015ffe815e2c0b592b79795"
   }
 ]
