@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "sources": {
+    "betmatiktv": {
+      "candidates": [
+        "https://betmatiktv155.com/"
+      ]
+    },
+    "ntvs": {"candidates": ["https://www.ntvs.cx/"]},
+    "daddylive": {"gateways": ["https://daddylive.pk/"], "candidates": ["https://dlhd.st/", "https://dlstreams.st/", "https://dlhd.pk/"]},
+    "streameast": {"gateways": ["https://streamea.st/", "https://gostreameast.is/"], "candidates": ["https://v2.streameast.ga/"]},
+    "papazsports": {"gateways": ["https://bit.ly/m/papazsports", "http://sy-re.com/papaz-web"], "candidates": ["https://www.papazsports1022.pro/", "https://www.papazsports1023.pro/"]},
+    "ardaspor": {
+      "gateways": ["https://www.ardasporgiris.site/"],
+      "candidates": ["https://ardaspor30.top/"]
+    },
+    "mahsunsports": {"gateways": ["https://mahsunsports.com/"], "candidates": ["https://mahsunsports80.xyz/"]},
+    "crex": {"gateways": ["https://crex.live/", "https://crex1.vercel.app/"], "candidates": ["https://crex.live/"]},
+    "inattv": {"gateways": ["https://www.inatgiris.com/"], "candidates": ["https://www.inattvizle488.top/"]},
+    "taraftarium24": {"gateways": ["https://taraftarium24.ch/"], "candidates": ["https://inattv1322.xyz/"]},
+    "selcuksports": {"gateways": ["https://www.selcuksportshd.is/"], "candidates": ["https://www.selcuksportshdbd813bd00f.xyz/"]},
+    "mackeyfi": {"candidates": ["https://www.mackeyfi559.sbs/", "https://www.canlimaclar559.sbs/"]},
+    "zbahistv": {"candidates": ["https://zbahistv65.com/", "https://99baywintv.live/"]},
+    "intersportv": {"candidates": ["https://intersportv1.live/"]},
+    "beyazelma": {"candidates": ["https://beyazelma78.com/"]},
+    "kralsportshd": {"gateways": ["https://kralsportshd5.xyz/", "https://kralsportshd4.xyz/"], "candidates": ["https://kralsportshd5.xyz/"]}
+  }
+}
