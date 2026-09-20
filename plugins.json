@@ -111,7 +111,7 @@
       "Wiojelt"
     ],
     "description": "🟢 Kaynak: BeyazElma · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 129015,
+    "fileSize": 161255,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -119,7 +119,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BeyazElma.png",
     "apiVersion": 1,
-    "fileHash": "sha256-33391cefef97a0b737d6cead20cd31376498caff0862b60e26d11a2b36abbf01"
+    "fileHash": "sha256-3ac11800f50ed2bf6180cee2d36f7bdd4446eb330dc231173c39265ce36a7636"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/47ddea9a8e6c222326bf18c57893456c2fbab36d/Crex.cs3",
