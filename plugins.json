@@ -466,14 +466,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/PapazSports.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "PapazSports",
     "internalName": "PapazSports",
     "authors": [
       "Wiojelt"
     ],
     "description": "PapazSports canlı kanal ve maç listesi, artan alan adı keşfi ve güncelleme ekranı.",
-    "fileSize": 172061,
+    "fileSize": 131963,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -481,7 +481,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/PapazSports.png",
     "apiVersion": 1,
-    "fileHash": "sha256-afcc06ac9674ada407406f9174e635cec9d1571c0d4928d8bba76d8436975187"
+    "fileHash": "sha256-970eba8717e0a11eebaf2e8311c024749578772b84df546c2af432f8c3871cf7"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/PlayZTVProvider.cs3",
