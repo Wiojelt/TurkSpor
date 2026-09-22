@@ -9,7 +9,7 @@
       "Wiojelt"
     ],
     "description": "🟢 Kaynak: ArdaSpor · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 137339,
+    "fileSize": 137499,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -17,7 +17,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ArdaSpor.png",
     "apiVersion": 1,
-    "fileHash": "sha256-d4a7204d4a3ffe75fe3384dd39f07941809a70e494267f9bcc6f45d365f7b666"
+    "fileHash": "sha256-b431787f65119866286f936a13b050e5e066e27057ba5cc81a796da07898be15"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/AslanTV.cs3",
