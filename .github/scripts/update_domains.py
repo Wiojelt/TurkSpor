@@ -86,7 +86,13 @@ class DomainChecker:
         except Exception:
             return False, url
 
-    def extract_redirect_target(self, gateway_url: str) -> str | None:
+    def extract_redirect_target(self, gateway_url: str, domain_hint: str = "") -> str | None:
+        """
+        Inspects gateway page for:
+        1. HTTP 301/302 redirect
+        2. <meta refresh> / window.location
+        3. Link-hub pages (lists of <a href> links) — e.g. ardasporgiris.site
+        """
         try:
             resp = self.session.get(gateway_url, timeout=(3.0, 5.0), allow_redirects=False)
             if resp.status_code in (301, 302, 303, 307, 308):
@@ -96,13 +102,38 @@ class DomainChecker:
 
             if resp.status_code == 200:
                 text = resp.text
+
+                # Meta refresh
                 meta_match = re.search(r'content=[\'"][0-9]+;\s*url=([^\'"]+)[\'"]', text, re.I)
                 if meta_match:
                     return urllib.parse.urljoin(gateway_url, meta_match.group(1))
 
+                # Window.location / location.href
                 js_match = re.search(r'(?:window\.location(?:\.href)?|location\.href)\s*=\s*[\'"]([^\'"]+)[\'"]', text, re.I)
                 if js_match:
                     return urllib.parse.urljoin(gateway_url, js_match.group(1))
+
+                # Link-hub: scrape all <a href> links, filter by domain_hint pattern or generic sport/stream sites
+                hrefs = re.findall(r'href=["\']([^\s"\'<>]+)["\']', text, re.I)
+                tld_pattern = re.compile(r'^https?://[^/]+\.(top|com|xyz|net|sbs|live|pro|site)/', re.I)
+                for href in hrefs:
+                    full = urllib.parse.urljoin(gateway_url, href)
+                    if not full.startswith("http"):
+                        continue
+                    # Skip social media, CDN, fonts, same-domain links
+                    parsed = urllib.parse.urlparse(full)
+                    skip_hosts = {"t.me", "x.com", "twitter.com", "facebook.com", "instagram.com",
+                                  "youtube.com", "fonts.googleapis.com", "cdnjs.cloudflare.com"}
+                    if parsed.netloc in skip_hosts:
+                        continue
+                    gw_host = urllib.parse.urlparse(gateway_url).netloc
+                    if parsed.netloc == gw_host:
+                        continue
+                    # If domain_hint given, prioritize matching links
+                    if domain_hint and re.search(re.escape(domain_hint), parsed.netloc, re.I):
+                        return full if full.endswith("/") else full + "/"
+                    if tld_pattern.match(full):
+                        return full if full.endswith("/") else full + "/"
         except Exception:
             pass
         return None
@@ -183,7 +214,7 @@ class DomainChecker:
         log(f"[{source_name}] Mevcut domain kapalı, taranıyor...")
 
         for gw in gateways:
-            target = self.extract_redirect_target(gw)
+            target = self.extract_redirect_target(gw, domain_hint=source_name)
             if target:
                 alive, final_url = self.is_alive(target)
                 if alive:
