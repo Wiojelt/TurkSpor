@@ -184,14 +184,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/DominoTV.cs3",
     "status": 3,
-    "version": 7,
+    "version": 8,
     "name": "DominoTV",
     "internalName": "DominoTV",
     "authors": [
       "Wiojelt"
     ],
     "description": "Domino TV dinamik kanal listesi",
-    "fileSize": 136992,
+    "fileSize": 140712,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -199,7 +199,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/DominoTV.png",
     "apiVersion": 1,
-    "fileHash": "sha256-d34abcee1a569ecfa225f6b35661e60542cac5b440549b991ae779659cf24ea1"
+    "fileHash": "sha256-e5e8513648da1f45f17e935e2b5e33ead59cdf59b8b3734591a74aee2c410f9f"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/GolgeTV.cs3",
