@@ -8,7 +8,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "\ud83d\udfe2 Kaynak: ArdaSpor \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
+        "description": "🟢 Kaynak: ArdaSpor · Emeği için teşekkürler ♥ · @wiojelt",
         "fileSize": 176091,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
@@ -28,7 +28,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "\ud83d\udfe2 Kaynak: Aslan TV \u00b7 Derleme izni ve eme\u011fi i\u00e7in yap\u0131mc\u0131s\u0131na te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt \u00b7 WARP gerekebilir.",
+        "description": "🟢 Kaynak: Aslan TV · Derleme izni ve emeği için yapımcısına teşekkürler ♥ · @wiojelt · WARP gerekebilir.",
         "fileSize": 258921,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
@@ -48,7 +48,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "AtomSporTV canl\u0131 spor kanallar\u0131 ve ma\u00e7 yay\u0131nlar\u0131.",
+        "description": "AtomSporTV canlı spor kanalları ve maç yayınları.",
         "fileSize": 153276,
         "repositoryUrl": "https://github.com/Wiojelt/test",
         "language": "tr",
@@ -67,7 +67,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "NBA ma\u00e7 tekrarlar\u0131, playoff serileri ve basketbol kar\u015f\u0131la\u015fmalar\u0131 full replay yay\u0131n\u0131.",
+        "description": "NBA maç tekrarları, playoff serileri ve basketbol karşılaşmaları full replay yayını.",
         "fileSize": 158917,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "en",
@@ -88,7 +88,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "NBA, WNBA, Euroleague ve NCAA basketbol ma\u00e7 tekrarlar\u0131 full HD replay ak\u0131\u015flar\u0131.",
+        "description": "NBA, WNBA, Euroleague ve NCAA basketbol maç tekrarları full HD replay akışları.",
         "fileSize": 162109,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "en",
@@ -109,7 +109,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "Betmatik TV canl\u0131 spor kanallar\u0131 \u00b7 otomatik alan g\u00fcncelleme",
+        "description": "Betmatik TV canlı spor kanalları · otomatik alan güncelleme",
         "fileSize": 208728,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
@@ -123,14 +123,14 @@
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/BeyazElma.cs3",
         "status": 3,
-        "version": 11,
+        "version": 12,
         "name": "BeyazElma",
         "internalName": "BeyazElma",
         "authors": [
             "Wiojelt"
         ],
-        "description": "\ud83d\udfe2 Kaynak: BeyazElma \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
-        "fileSize": 208737,
+        "description": "🟢 Kaynak: BeyazElma · Emeği için teşekkürler ♥ · @wiojelt",
+        "fileSize": 209582,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
         "tvTypes": [
@@ -138,7 +138,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BeyazElma.png",
         "apiVersion": 1,
-        "fileHash": "sha256-be66b52f36f30741d7fbe464c4c7a3c073425621875426d1743d55074f82429c"
+        "fileHash": "sha256-3fd53b40c28192503aa86ba4f518cc3ee43e10346c949ab8533a16673dcfd390"
     },
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/WioSpor/builds/BirdirbirIPTV.cs3",
@@ -149,7 +149,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "v10 IPTV: yerel ve d\u00fcnya canl\u0131 kanallar\u0131, se\u00e7ili 17 listeyle g\u00fcncellenmi\u015f yay\u0131n alternatifleri.",
+        "description": "v10 IPTV: yerel ve dünya canlı kanalları, seçili 17 listeyle güncellenmiş yayın alternatifleri.",
         "fileSize": 236646,
         "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
         "language": "tr",
@@ -168,7 +168,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "\ud83d\udfe2 Kaynak: Crex \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
+        "description": "🟢 Kaynak: Crex · Emeği için teşekkürler ♥ · @wiojelt",
         "fileSize": 178202,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
@@ -188,7 +188,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "DaddyLive 7/24 spor kanallar\u0131, \u00e7oklu alan ad\u0131 ve tokenl\u0131 oynat\u0131c\u0131 deste\u011fi.",
+        "description": "DaddyLive 7/24 spor kanalları, çoklu alan adı ve tokenlı oynatıcı desteği.",
         "fileSize": 148231,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
@@ -202,14 +202,14 @@
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/DomatesTV.cs3",
         "status": 3,
-        "version": 4,
+        "version": 5,
         "name": "DomatesTV",
         "internalName": "DomatesTV",
         "authors": [
             "Wiojelt"
         ],
-        "description": "Domates TV dinamik spor kanallar\u0131",
-        "fileSize": 165969,
+        "description": "Domates TV dinamik spor kanalları",
+        "fileSize": 169219,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
         "tvTypes": [
@@ -217,7 +217,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/DomatesTV.webp",
         "apiVersion": 1,
-        "fileHash": "sha256-011820ee1e9cbe470990401c5edff97e50f1392b9babb44221cc4ee4cee66ce4"
+        "fileHash": "sha256-7e7339fe3793c7ff99b9533f31a78c4e95f72cb3ae7a7f6068f44ac466f185c3"
     },
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/DominoTV.cs3",
@@ -248,7 +248,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "G\u00f6lgeTV spor kanallar\u0131 ve alternatif yay\u0131nlar",
+        "description": "GölgeTV spor kanalları ve alternatif yayınlar",
         "fileSize": 225944,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
@@ -272,7 +272,7 @@
             "JustRelaxable",
             "keyiflerolsun"
         ],
-        "description": "\ud83d\udfe2 Kaynak: \u0130nat Box \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
+        "description": "🟢 Kaynak: İnat Box · Emeği için teşekkürler ♥ · @wiojelt",
         "fileSize": 271742,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
@@ -294,7 +294,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "\ud83d\udfe2 Kaynak: \u0130nat TV \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
+        "description": "🟢 Kaynak: İnat TV · Emeği için teşekkürler ♥ · @wiojelt",
         "fileSize": 174198,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
@@ -314,7 +314,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "\ud83d\udd34 Kaynak: InterSporTV \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
+        "description": "🔴 Kaynak: InterSporTV · Emeği için teşekkürler ♥ · @wiojelt",
         "fileSize": 208649,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
@@ -334,7 +334,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "JestYayin canl\u0131 ma\u00e7lar ve spor kanallar\u0131",
+        "description": "JestYayin canlı maçlar ve spor kanalları",
         "fileSize": 224467,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
@@ -373,7 +373,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "\ud83d\udc51 Kaynak: KralSporHD \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
+        "description": "👑 Kaynak: KralSporHD · Emeği için teşekkürler ♥ · @wiojelt",
         "fileSize": 174554,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
@@ -393,7 +393,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "LeoTV / LeoGrand canl\u0131 spor ve TV yay\u0131nlar\u0131 (Dinamik AES-CBC ak\u0131\u015f \u00e7\u00f6z\u00fcc\u00fc).",
+        "description": "LeoTV / LeoGrand canlı spor ve TV yayınları (Dinamik AES-CBC akış çözücü).",
         "fileSize": 155990,
         "repositoryUrl": "https://github.com/Wiojelt/test",
         "language": "tr",
@@ -412,7 +412,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "\ud83d\udd34 Kaynak: Ma\u00e7Keyfi / Canl\u0131ma\u00e7lar \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt \u00b7 WARP gerekebilir.",
+        "description": "🔴 Kaynak: MaçKeyfi / Canlımaçlar · Emeği için teşekkürler ♥ · @wiojelt · WARP gerekebilir.",
         "fileSize": 208650,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
@@ -432,7 +432,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "\ud83d\udfe2 Kaynak: MahsunSports \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
+        "description": "🟢 Kaynak: MahsunSports · Emeği için teşekkürler ♥ · @wiojelt",
         "fileSize": 177008,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
@@ -452,7 +452,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "Global Spor - Canl\u0131 spor kar\u015f\u0131la\u015fmalar\u0131, uluslararas\u0131 TV kanallar\u0131, fikst\u00fcr ve ma\u00e7 \u00f6zetleri.",
+        "description": "Global Spor - Canlı spor karşılaşmaları, uluslararası TV kanalları, fikstür ve maç özetleri.",
         "fileSize": 169598,
         "repositoryUrl": "https://github.com/Wiojelt/test",
         "language": "tr",
@@ -472,7 +472,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "NETV Gold uygulamas\u0131n\u0131n do\u011frulanm\u0131\u015f spor kanallar\u0131",
+        "description": "NETV Gold uygulamasının doğrulanmış spor kanalları",
         "fileSize": 220447,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
@@ -492,7 +492,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "NTVStream spor kanallar\u0131, arama tabanl\u0131 canl\u0131 katalog ve g\u00fcncelleme ekran\u0131.",
+        "description": "NTVStream spor kanalları, arama tabanlı canlı katalog ve güncelleme ekranı.",
         "fileSize": 148209,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
@@ -512,7 +512,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "PapazSports canl\u0131 kanal ve ma\u00e7 listesi, artan alan ad\u0131 ke\u015ffi ve g\u00fcncelleme ekran\u0131.",
+        "description": "PapazSports canlı kanal ve maç listesi, artan alan adı keşfi ve güncelleme ekranı.",
         "fileSize": 219079,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
@@ -532,7 +532,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "\ud83d\udd34 Kaynak: PatronHD / Patronspor \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
+        "description": "🔴 Kaynak: PatronHD / Patronspor · Emeği için teşekkürler ♥ · @wiojelt",
         "fileSize": 208646,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
@@ -552,7 +552,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "\ud83d\udfe2 Kaynak: Sel\u00e7ukSports \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
+        "description": "🟢 Kaynak: SelçukSports · Emeği için teşekkürler ♥ · @wiojelt",
         "fileSize": 172959,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
@@ -572,7 +572,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "SeyirTURK \u00b7 Yerli ve yabanc\u0131 filmler, diziler ve canl\u0131 TV kanallar\u0131.",
+        "description": "SeyirTURK · Yerli ve yabancı filmler, diziler ve canlı TV kanalları.",
         "fileSize": 259872,
         "repositoryUrl": "https://github.com/Wiojelt/test",
         "language": "tr",
@@ -593,7 +593,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "Stalker Stb Canl\u0131 TV ve Spor Kanallar\u0131 (TV1 & 8kGold Panelleri)",
+        "description": "Stalker Stb Canlı TV ve Spor Kanalları (TV1 & 8kGold Panelleri)",
         "fileSize": 172019,
         "repositoryUrl": "https://github.com/Wiojelt/test",
         "language": "tr",
@@ -613,7 +613,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "StreamEast canl\u0131 ve yakla\u015fan spor etkinlikleri, \u00e7oklu oynat\u0131c\u0131 ve g\u00fcncelleme ekran\u0131.",
+        "description": "StreamEast canlı ve yaklaşan spor etkinlikleri, çoklu oynatıcı ve güncelleme ekranı.",
         "fileSize": 147805,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
@@ -633,7 +633,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "\ud83d\udfe2 Kaynak: Streamed \u2022 @Kraptor123 | @kekikanime \u00b7 Futbol, Basketbol, Tenis, Kriket, D\u00f6v\u00fc\u015f ve daha fazlas\u0131.",
+        "description": "🟢 Kaynak: Streamed • @Kraptor123 | @kekikanime · Futbol, Basketbol, Tenis, Kriket, Dövüş ve daha fazlası.",
         "fileSize": 167659,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
@@ -653,7 +653,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "\ud83d\udd34 Kaynak: Taraftarium24 \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
+        "description": "🔴 Kaynak: Taraftarium24 · Emeği için teşekkürler ♥ · @wiojelt",
         "fileSize": 174381,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
@@ -673,7 +673,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "TRGoals dinamik spor kanallar\u0131 ve alan g\u00fcncelleme ekran\u0131",
+        "description": "TRGoals dinamik spor kanalları ve alan güncelleme ekranı",
         "fileSize": 222140,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
@@ -687,14 +687,14 @@
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/TurkSpor.cs3",
         "status": 3,
-        "version": 5,
+        "version": 6,
         "name": "TurkSpor",
         "internalName": "TurkSpor",
         "authors": [
             "Wiojelt"
         ],
-        "description": "17 spor sa\u011flay\u0131c\u0131s\u0131 tek pakette. \u0130stenen sa\u011flay\u0131c\u0131 eklenti ayarlar\u0131ndan a\u00e7\u0131l\u0131p kapat\u0131labilir.",
-        "fileSize": 545379,
+        "description": "17 spor sağlayıcısı tek pakette. İstenen sağlayıcı eklenti ayarlarından açılıp kapatılabilir.",
+        "fileSize": 550320,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
         "tvTypes": [
@@ -702,7 +702,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png",
         "apiVersion": 1,
-        "fileHash": "sha256-a1a1c351728833db0facf2bb15e50c708ad154d582b055ef543919a609bda519"
+        "fileHash": "sha256-e9f1877d1f3af9796ec6bf2742c8d2b07f791af525dbdc82c47a9f2fbfb8d29d"
     },
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/TurkSporDestek.cs3",
@@ -713,7 +713,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "TurkSpor\u2019a destek ol \u2615 \u00b7 @wiojelt \u00b7 made with \u2665",
+        "description": "TurkSpor’a destek ol ☕ · @wiojelt · made with ♥",
         "fileSize": 147700,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
@@ -752,7 +752,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "V\u0130ONTV canl\u0131 TV kanallar\u0131n\u0131 kategori, arama ve kanal logolar\u0131yla sunar.",
+        "description": "VİONTV canlı TV kanallarını kategori, arama ve kanal logolarıyla sunar.",
         "fileSize": 155433,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
@@ -792,7 +792,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "Warflix Film & Dizi (TMDb / \u00c7oklu Embed Sunucu Ak\u0131\u015f\u0131).",
+        "description": "Warflix Film & Dizi (TMDb / Çoklu Embed Sunucu Akışı).",
         "fileSize": 169305,
         "repositoryUrl": "https://github.com/Wiojelt/test",
         "language": "en",
@@ -812,7 +812,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "\u015eifre korumal\u0131 \u00f6zel VIP canl\u0131 TV ve spor yay\u0131n\u0131. Renk gruplar\u0131, dinamik kaynaklar ve IPTV panelleri.",
+        "description": "Şifre korumalı özel VIP canlı TV ve spor yayını. Renk grupları, dinamik kaynaklar ve IPTV panelleri.",
         "fileSize": 708657,
         "repositoryUrl": "https://github.com/Wiojelt/WiojeltSpor",
         "language": "tr",
@@ -826,14 +826,14 @@
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/WioSpor/builds/WioSpor.cs3",
         "status": 3,
-        "version": 42,
+        "version": 43,
         "name": "WioSpor",
         "internalName": "WioSpor",
         "authors": [
             "Wiojelt"
         ],
-        "description": "T\u00fcm canl\u0131 TV ve spor kanallar\u0131 tek eklentide. Renk gruplar\u0131 ve alternatif yay\u0131n kaynaklar\u0131.",
-        "fileSize": 615602,
+        "description": "Tüm canlı TV ve spor kanalları tek eklentide. Renk grupları ve alternatif yayın kaynakları.",
+        "fileSize": 621584,
         "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
         "language": "tr",
         "tvTypes": [
@@ -841,7 +841,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/logo.png?v=3",
         "apiVersion": 1,
-        "fileHash": "sha256-0190c713500b3f3111b0e70db131f48d6f05c099e67a20d6750d999ddeda0055"
+        "fileHash": "sha256-be2522362c8c820162faa873d34ad28a504d48847382674680c8592280c8fc96"
     },
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/ZbahisTV.cs3",
@@ -852,7 +852,7 @@
         "authors": [
             "Wiojelt"
         ],
-        "description": "\ud83d\udd34 Kaynak: Zbahis / Baywin TV \u00b7 Eme\u011fi i\u00e7in te\u015fekk\u00fcrler \u2665 \u00b7 @wiojelt",
+        "description": "🔴 Kaynak: Zbahis / Baywin TV · Emeği için teşekkürler ♥ · @wiojelt",
         "fileSize": 208636,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
         "language": "tr",
