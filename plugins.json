@@ -42,21 +42,21 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/AtomSpor.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "AtomSpor",
     "internalName": "AtomSpor",
     "authors": [
       "Wiojelt"
     ],
     "description": "AtomSporTV canlı spor kanalları ve maç yayınları.",
-    "fileSize": 153276,
+    "fileSize": 153290,
     "repositoryUrl": "https://github.com/Wiojelt/test",
     "language": "tr",
     "tvTypes": [
       "Live"
     ],
     "apiVersion": 1,
-    "fileHash": "sha256-8691db9a250b355eac6b1e2702117d051c25971d0aa6f353ce8ff383664b4613"
+    "fileHash": "sha256-204b18cfb0f70da036c2f911a6a28e32ce41dc4efb8e8b4ddf55982413d32198"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/BasketballReplays.cs3",
@@ -387,21 +387,21 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/LeoTV.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "LeoTV",
     "internalName": "LeoTV",
     "authors": [
       "Wiojelt"
     ],
     "description": "LeoTV / LeoGrand canlı spor ve TV yayınları (Dinamik AES-CBC akış çözücü).",
-    "fileSize": 155990,
+    "fileSize": 156000,
     "repositoryUrl": "https://github.com/Wiojelt/test",
     "language": "tr",
     "tvTypes": [
       "Live"
     ],
     "apiVersion": 1,
-    "fileHash": "sha256-b4b3df44edc5ab828dd80b034795fd4755ec260cce924ecce71979a9f6199000"
+    "fileHash": "sha256-d89b1e8a559315020123433c59ace7668571f75e035f03ded047d8d03c409b96"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/MacKeyfi.cs3",
@@ -667,14 +667,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/TRGoals.cs3",
     "status": 3,
-    "version": 2,
+    "version": 3,
     "name": "TRGoals",
     "internalName": "TRGoals",
     "authors": [
       "Wiojelt"
     ],
     "description": "TRGoals dinamik spor kanalları ve alan güncelleme ekranı",
-    "fileSize": 173457,
+    "fileSize": 225068,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -682,7 +682,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/TRGoals.png",
     "apiVersion": 1,
-    "fileHash": "sha256-9f700876c9fac4845230538149fcd4c06be8a2fc3c1253fb91ff54f80b1b62d2"
+    "fileHash": "sha256-612a417f58e7e8b86ba9b212b93d696f08d60350d873519bdcd1a45d2e1c0914"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/TurkSpor.cs3",
@@ -826,14 +826,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/WioSpor.cs3",
     "status": 3,
-    "version": 44,
+    "version": 45,
     "name": "WioSpor",
     "internalName": "WioSpor",
     "authors": [
       "Wiojelt"
     ],
     "description": "Tüm canlı TV ve spor kanalları tek eklentide. Renk grupları ve alternatif yayın kaynakları.",
-    "fileSize": 624931,
+    "fileSize": 653222,
     "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
     "language": "tr",
     "tvTypes": [
@@ -841,7 +841,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/logo.png?v=3",
     "apiVersion": 1,
-    "fileHash": "sha256-c502a7f89516b002202a751e3696f7da655063cbd4a433dcf970e959a9e329c8"
+    "fileHash": "sha256-158adecb3704ce36d34968acdd3886c836f14bb702dce3ee5ccb01ba11a16997"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/ZbahisTV.cs3",
