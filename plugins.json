@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "url":  "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/ArdaSpor.cs3",
         "status":  3,
@@ -22,14 +22,14 @@
     {
         "url":  "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/AslanTV.cs3",
         "status":  3,
-        "version":  10,
+        "version":  11,
         "name":  "AslanTV",
         "internalName":  "AslanTV",
         "authors":  [
                         "Wiojelt"
                     ],
-        "description":  "ğŸŸ¢ Kaynak: Aslan TV Â· Derleme izni ve emeÄŸi iÃ§in yapÄ±mcÄ±sÄ±na teÅŸekkÃ¼rler â™¥ Â· @wiojelt Â· WARP gerekebilir.",
-        "fileSize":  212112,
+        "description":  "🦁 Kaynak: Aslan TV · Atom Spor, Betconnect, Biraz Sports, Canlı TV Türk, İzle TV, Kanka TV, Selçuk Sportss, Tabii Spor",
+        "fileSize":  258172,
         "repositoryUrl":  "https://github.com/Wiojelt/TurkSpor",
         "language":  "tr",
         "tvTypes":  [
@@ -37,7 +37,7 @@
                     ],
         "iconUrl":  "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/AslanTV.png",
         "apiVersion":  1,
-        "fileHash":  "sha256-ef7c6f2b7d372c3f8ba8cbc784deff26112035095f59524bcc5da7e1c86c9cd8"
+        "fileHash":  "sha256-4a42a4860750d160b7bd71dc503339387d662d357d488880eb435b295be224af"
     },
     {
         "url":  "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/AtomSpor.cs3",
