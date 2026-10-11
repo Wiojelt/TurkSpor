@@ -100,16 +100,16 @@
     "fileHash": "sha256-1b5f36ffb8c33a2e93317533287bc3fa02f0e5c577351f2c128a6efaae7d719b"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/36b45ce5d79b1428ffa731a8685e610afa1b2662/BasketballVideo.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/BasketballVideo.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "BasketballVideo",
     "internalName": "BasketballVideo",
     "authors": [
       "Wiojelt"
     ],
     "description": "NBA, WNBA, Euroleague ve NCAA basketbol maç tekrarları full HD replay akışları.",
-    "fileSize": 163972,
+    "fileSize": 170982,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "en",
     "tvTypes": [
@@ -118,7 +118,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-9bfa70b0478dafc23c675624761983f49860dc862f6966d7943d1d6d93681b41"
+    "fileHash": "sha256-1114aa4a1ffda6b58c2dda5bbf7db27b6b12d1bec86d6de0881930d8e413d2d6"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/36b45ce5d79b1428ffa731a8685e610afa1b2662/BetmatikTV.cs3",
