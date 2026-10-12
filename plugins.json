@@ -202,7 +202,7 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/e4a46d39d5fb813816af58e6484c83d595b73f02/CricifyProvider.cs3",
     "status": 1,
-    "version": 1,
+    "version": 65,
     "name": "CricifyProvider",
     "internalName": "CricifyProvider",
     "authors": [
@@ -468,7 +468,7 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/e4a46d39d5fb813816af58e6484c83d595b73f02/LivXowProvider.cs3",
     "status": 1,
-    "version": 1,
+    "version": 14,
     "name": "LivXowProvider",
     "internalName": "LivXowProvider",
     "authors": [
@@ -629,7 +629,7 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/e4a46d39d5fb813816af58e6484c83d595b73f02/PlayZTVProvider.cs3",
     "status": 1,
-    "version": 1,
+    "version": 35,
     "name": "PlayZTVProvider",
     "internalName": "PlayZTVProvider",
     "authors": [
@@ -691,7 +691,7 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/e4a46d39d5fb813816af58e6484c83d595b73f02/SportzxProvider.cs3",
     "status": 1,
-    "version": 1,
+    "version": 19,
     "name": "SportzxProvider",
     "internalName": "SportzxProvider",
     "authors": [
