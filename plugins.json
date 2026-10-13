@@ -891,22 +891,22 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/e4a46d39d5fb813816af58e6484c83d595b73f02/WioSync.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "WioSync",
     "internalName": "WioSync",
     "authors": [
       "Wiojelt"
     ],
     "description": "WioStream Cihaz Eşleme, Telemetri ve Uzaktan Yönetim Eklentisi",
-    "fileSize": 164393,
-    "repositoryUrl": "https://github.com/Wiojelt/test",
+    "fileSize": 167262,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
       "Others"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-657ea534a28a7fceac93f7866447e26c50a8262951e02c48255650f4c16b8a0a"
+    "fileHash": "sha256-05839cdc2a86c6f664e97550ae4598326de5d2ccb780be8a06e0b41784ee229e"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/e4a46d39d5fb813816af58e6484c83d595b73f02/ZbahisTV.cs3",
