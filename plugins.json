@@ -596,7 +596,7 @@
       "Wiojelt"
     ],
     "description": "PapazSports canlı kanal ve maç listesi, artan alan adı keşfi ve güncelleme ekranı.",
-    "fileSize": 229652,
+    "fileSize": 229658,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -604,7 +604,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/PapazSports.png",
     "apiVersion": 1,
-    "fileHash": "sha256-831cbdd9ffc4147586e463243b90ffd0e23fb93e553776a0da79978889144ecb"
+    "fileHash": "sha256-f05fa72efba8ea635d0fb6c7434998c282f3e0edee35ff3b0d0dbc04db87d63f"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/e4a46d39d5fb813816af58e6484c83d595b73f02/PatronHD.cs3",
