@@ -427,16 +427,16 @@
     "fileHash": "sha256-7932cf04098961f00c646efd54e4ab6fa564d8cad6bb08fba7d2f6754d17fdf0"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/KoalaTV.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/8551f55d061803a131954588e07435772fea47a6/KoalaTV.cs3",
     "status": 3,
-    "version": 3,
+    "version": 4,
     "name": "KoalaTV",
     "internalName": "KoalaTV",
     "authors": [
       "Wiojelt"
     ],
     "description": "KoalaTV canlı TV kanallarını kategori, arama ve kesintisiz yayın alternatifleriyle sunar.",
-    "fileSize": 547267,
+    "fileSize": 546669,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -444,7 +444,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/KoalaTV.png",
     "apiVersion": 1,
-    "fileHash": "sha256-3b2fee2083dbae5c9c0cc56fc4eebc368a43421683d275f1ab000ae8fa815618"
+    "fileHash": "sha256-127b6d709f1cfd6b16c7a6f23bd0643158312a7726717c36d18852b90db8616d"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/170f53c09a4388a2d0b9e7418b528e2ddb44b6e0/KralSporHD.cs3",
