@@ -322,52 +322,6 @@
     "fileHash": "sha256-1c473e4e5e25378bdafdcae339be6bd2422b22af27daa2afe653a838c1fe0b6a"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/InatBox.cs3?v=eea407e3b646",
-    "status": 3,
-    "version": 16,
-    "name": "InatBox",
-    "internalName": "InatBox",
-    "authors": [
-      "Wiojelt",
-      "murattunc05",
-      "feroxx",
-      "JustRelaxable",
-      "keyiflerolsun"
-    ],
-    "description": "🟢 Kaynak: İnat Box · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 282584,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Live"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InatBox.webp",
-    "apiVersion": 1,
-    "fileHash": "sha256-eea407e3b646501ca413fa2018caa0720d8b76a10144b6c5dbade2e3531ec808"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/InatTV.cs3?v=0091944ca30a",
-    "status": 3,
-    "version": 11,
-    "name": "InatTV",
-    "internalName": "InatTV",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "🟢 Kaynak: İnat TV · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 175521,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-    "language": "tr",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InatTV.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-0091944ca30a4776832904353efce48263d33aaeebb0c935f4f444516e098043"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/InterSporTV.cs3?v=edb8f888196e",
     "status": 3,
     "version": 10,
