@@ -25,11 +25,11 @@
     },
     "streameast": {
       "gateways": [
-        "https://streamea.st/",
+        "https://v2.gostreameast.is/",
         "https://gostreameast.is/"
       ],
       "candidates": [
-        "https://v2.streameast.ga/"
+        "https://v2.gostreameast.is/"
       ]
     },
     "papazsports": {
@@ -47,6 +47,7 @@
         "https://www.ardasporgiris.site/"
       ],
       "candidates": [
+        "https://ardaspor33.top/",
         "https://ardaspor31.top/"
       ]
     },
@@ -55,13 +56,13 @@
         "https://mahsunsports.com/"
       ],
       "candidates": [
-        "https://mahsunsports80.xyz/"
+        "https://mahsunsports.com/"
       ]
     },
     "crex": {
       "gateways": [
-        "https://crex.live/",
-        "https://crex1.vercel.app/"
+        "https://crex.com/",
+        "https://crex.live/"
       ],
       "candidates": [
         "https://crex.com/",
@@ -70,19 +71,24 @@
     },
     "inattv": {
       "gateways": [
+        "https://inattv.top/",
         "https://www.inatgiris.com/"
       ],
       "candidates": [
-        "https://www.inattvizle489.top/",
-        "https://www.inattvizle488.top/"
+        "https://inattv1325.xyz/",
+        "https://inattv1324.xyz/",
+        "https://inattv1323.xyz/",
+        "https://inattv.top/"
       ]
     },
     "taraftarium24": {
       "gateways": [
+        "https://taraftarium24.io/",
         "https://taraftarium24.ch/"
       ],
       "candidates": [
-        "https://inattv1322.xyz/"
+        "https://taraftarium24.io/",
+        "https://inattv1325.xyz/"
       ]
     },
     "selcuksports": {
@@ -102,7 +108,8 @@
     },
     "zbahistv": {
       "candidates": [
-        "https://99baywintv.live/"
+        "https://101baywintv.live/",
+        "https://100baywintv.live/"
       ]
     },
     "intersportv": {
@@ -439,12 +446,12 @@
     },
     "kralsportshd": {
       "gateways": [
-        "https://kralsportshd5.xyz/",
-        "https://kralsportshd4.xyz/"
+        "https://kralsportshd7.xyz/",
+        "https://kralsportshd6.xyz/"
       ],
       "candidates": [
-        "https://kralsportshd6.xyz/",
-        "https://kralsportshd5.xyz/"
+        "https://kralsportshd7.xyz/",
+        "https://kralsportshd6.xyz/"
       ]
     }
   }
