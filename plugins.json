@@ -22,7 +22,7 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/ArdaSpor.cs3?v=2944961cee66",
     "status": 3,
-    "version": 13,
+    "version": 12,
     "name": "ArdaSpor",
     "internalName": "ArdaSpor",
     "authors": [
@@ -62,7 +62,7 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/AtomSpor.cs3?v=bd733112e552",
     "status": 1,
-    "version": 3,
+    "version": 2,
     "name": "AtomSpor",
     "internalName": "AtomSpor",
     "authors": [
@@ -483,7 +483,7 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/MahsunSports.cs3?v=25e1f1d1f863",
     "status": 3,
-    "version": 10,
+    "version": 9,
     "name": "MahsunSports",
     "internalName": "MahsunSports",
     "authors": [
@@ -563,7 +563,7 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/PapazSports.cs3?v=1c6e2b5b8aca",
     "status": 1,
-    "version": 2,
+    "version": 1,
     "name": "PapazSports",
     "internalName": "PapazSports",
     "authors": [
