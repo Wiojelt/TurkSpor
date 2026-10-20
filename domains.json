@@ -3,7 +3,6 @@
   "sources": {
     "betmatiktv": {
       "candidates": [
-        "https://betmatiktv156.com/",
         "https://betmatiktv155.com/"
       ]
     },
@@ -26,12 +25,11 @@
     },
     "streameast": {
       "gateways": [
-        "https://streamea.st/",
+        "https://v2.gostreameast.is/",
         "https://gostreameast.is/"
       ],
       "candidates": [
-        "https://v2.gostreameast.is/",
-        "https://v2.streameast.ga/"
+        "https://v2.gostreameast.is/"
       ]
     },
     "papazsports": {
@@ -40,8 +38,8 @@
         "http://sy-re.com/papaz-web"
       ],
       "candidates": [
-        "https://www.papazsports1023.pro/",
-        "https://www.papazsports1022.pro/"
+        "https://www.papazsports1031.pro/",
+        "https://www.papazsports1032.pro/"
       ]
     },
     "ardaspor": {
@@ -49,9 +47,7 @@
         "https://www.ardasporgiris.site/"
       ],
       "candidates": [
-        "https://ardaspor33.top/",
-        "https://ardaspor32.top/",
-        "https://ardaspor31.top/"
+        "https://ardaspor33.top/"
       ]
     },
     "mahsunsports": {
@@ -59,14 +55,14 @@
         "https://mahsunsports.com/"
       ],
       "candidates": [
-        "https://mahsunsports.xyz/",
-        "https://mahsunsports80.xyz/"
+        "https://mahsunsports55.xyz/",
+        "https://mahsunsports.com/"
       ]
     },
     "crex": {
       "gateways": [
-        "https://crex.live/",
-        "https://crex1.vercel.app/"
+        "https://crex.com/",
+        "https://crex.live/"
       ],
       "candidates": [
         "https://crex.com/",
@@ -75,24 +71,24 @@
     },
     "inattv": {
       "gateways": [
+        "https://inattv.top/",
         "https://www.inatgiris.com/"
       ],
       "candidates": [
-        "https://inattvizle486.top/",
-        "https://www.inattvizle489.top/",
-        "https://www.inattvizle488.top/"
+        "https://inattv1325.xyz/",
+        "https://inattv1324.xyz/",
+        "https://inattv1323.xyz/",
+        "https://inattv.top/"
       ]
     },
     "taraftarium24": {
       "gateways": [
+        "https://taraftarium24.io/",
         "https://taraftarium24.ch/"
       ],
       "candidates": [
-        "https://inattv1326.xyz/",
-        "https://inattv1325.xyz/",
-        "https://inattv1324.xyz/",
-        "https://inattv1323.xyz/",
-        "https://inattv1322.xyz/"
+        "https://taraftarium24.io/",
+        "https://inattv1325.xyz/"
       ]
     },
     "selcuksports": {
@@ -100,8 +96,6 @@
         "https://www.selcuksportshd.is/"
       ],
       "candidates": [
-        "https://www.selcuksportshdfe44b96fcb.xyz/",
-        "https://www.selcuksportshd01390f9702.xyz/",
         "https://www.selcuksportshdbd813bd00f.xyz/"
       ]
     },
@@ -115,8 +109,7 @@
     "zbahistv": {
       "candidates": [
         "https://101baywintv.live/",
-        "https://100baywintv.live/",
-        "https://99baywintv.live/"
+        "https://100baywintv.live/"
       ]
     },
     "intersportv": {
@@ -453,14 +446,21 @@
     },
     "kralsportshd": {
       "gateways": [
-        "https://kralsportshd5.xyz/",
-        "https://kralsportshd4.xyz/"
+        "https://kralsportshd7.xyz/",
+        "https://kralsportshd6.xyz/"
       ],
       "candidates": [
-        "https://kralsportshd.com/",
         "https://kralsportshd7.xyz/",
-        "https://kralsportshd6.xyz/",
-        "https://kralsportshd5.xyz/"
+        "https://kralsportshd6.xyz/"
+      ]
+    },
+    "atomspor": {
+      "gateways": [
+        "https://atomsportv519.top/"
+      ],
+      "candidates": [
+        "https://atomsportv519.top/",
+        "https://atomsportv520.top/"
       ]
     }
   }
