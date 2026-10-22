@@ -581,16 +581,16 @@
     "fileHash": "sha256-1c6e2b5b8aca897fbe20b8e39636c1cb6d2cb155a02314a8efb5ab4aa82823d3"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/PatronHD.cs3?v=853ecf634d7b",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/PatronHD.cs3?v=0a23118baf66",
     "status": 3,
-    "version": 16,
+    "version": 17,
     "name": "PatronHD",
     "internalName": "PatronHD",
     "authors": [
       "Wiojelt"
     ],
     "description": "🔴 Kaynak: PatronHD / Patronspor · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 219020,
+    "fileSize": 219019,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -598,7 +598,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/PatronHD.png",
     "apiVersion": 1,
-    "fileHash": "sha256-853ecf634d7bf3a31bf799bddaa29f6cab8d7f36ddd5e7ecd6514e65a396da13"
+    "fileHash": "sha256-0a23118baf665692d78258be70bc7e833440c8c7674a0625067e0f0e82965475",
+    "filesize": 219019,
+    "hash": "0a23118baf665692d78258be70bc7e833440c8c7674a0625067e0f0e82965475"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/PlayZTVProvider.cs3?v=80e4656cdab5",
