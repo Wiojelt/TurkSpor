@@ -461,7 +461,7 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/NewTVLive.cs3?v=8c6a381eb8c0",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "NewTVLive",
     "internalName": "NewTVLive",
     "authors": [
@@ -808,7 +808,7 @@
       "Wiojelt"
     ],
     "description": "Devredışı Bırakıldı (Bakımda)",
-    "fileSize": 898148,
+    "fileSize": 759191,
     "repositoryUrl": "https://github.com/Wiojelt/WiojeltSpor",
     "language": "tr",
     "tvTypes": [
@@ -816,7 +816,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WiojeltSpor/main/assets/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-843c5f72c2ff44b09b249e1d5763b2ec0fe345f59a2bca5899d3a59eca88991e"
+    "fileHash": "sha256-11ef7ebe2b0f09f0c81b76465ebb16482c9355c5c48a31be9acd0bb9514137a0"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/WioMulti.cs3?v=6dd0bb027803",
