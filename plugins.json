@@ -59,16 +59,16 @@
     "fileHash": "sha256-bd733112e5527ee491ce087b139624711e7e575f504233d91a41f2a6be1a8a26"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/BasketballReplays.cs3?v=1b5f36ffb8c3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/BasketballReplays.cs3?v=7842f847e93a",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "BasketballReplays",
     "internalName": "BasketballReplays",
     "authors": [
       "Wiojelt"
     ],
     "description": "NBA maç tekrarları, playoff serileri ve basketbol karşılaşmaları full replay yayını.",
-    "fileSize": 160702,
+    "fileSize": 190236,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "en",
     "tvTypes": [
@@ -77,7 +77,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-1b5f36ffb8c33a2e93317533287bc3fa02f0e5c577351f2c128a6efaae7d719b"
+    "fileHash": "sha256-7842f847e93a3c44a18d8150a4fd5eb2ba77bd0739795867f23b041411f17715"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/BasketballVideo.cs3?v=1114aa4a1ffd",
