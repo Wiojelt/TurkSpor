@@ -103,11 +103,12 @@
     },
     "selcuksports": {
       "gateways": [
+        "https://taraftarium24.io/",
         "https://www.selcuksportshd.is/"
       ],
       "candidates": [
-        "https://www.selcuksportshd14e17ba2ad.xyz/",
-        "https://www.selcuksportshdbd813bd00f.xyz/"
+        "https://taraftarium24.io/",
+        "https://www.selcuksportshd14e17ba2ad.xyz/"
       ]
     },
     "mackeyfi": {
