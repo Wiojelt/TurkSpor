@@ -810,16 +810,16 @@
     "hash": "43f41ab9a88297253bb2c0265f7c760b3f0379265d4e1d2a955a3fd8bfcead40"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/VionTV.cs3?v=884ee3683da9",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/VionTV.cs3?v=563b7ac0c4ec",
     "status": 3,
-    "version": 3,
+    "version": 4,
     "name": "VionTV",
     "internalName": "VionTV",
     "authors": [
       "Wiojelt"
     ],
     "description": "Mien TV canlı TV kanallarını kategori, arama ve kanal logolarıyla sunar.",
-    "fileSize": 157481,
+    "fileSize": 159169,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -827,9 +827,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/MienTV.webp",
     "apiVersion": 1,
-    "fileHash": "sha256-884ee3683da9f4d74f3dbbd07fc6c420c1ab1d1f633d4c36e1a85eb2c32b1c40",
-    "filesize": 157481,
-    "hash": "884ee3683da9f4d74f3dbbd07fc6c420c1ab1d1f633d4c36e1a85eb2c32b1c40"
+    "fileHash": "sha256-563b7ac0c4ecf1df5658dce83594003b421a450904dbfbb50d473a66d3d23f2a",
+    "filesize": 159169,
+    "hash": "563b7ac0c4ecf1df5658dce83594003b421a450904dbfbb50d473a66d3d23f2a"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/VivoXSpor.cs3?v=f8dd765ea7df",
@@ -918,16 +918,16 @@
     "hash": "6dd0bb027803fa91105e06fe02e4a09571c5d91d511f84a6d51bd9f2b23a1989"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/WioSpor.cs3?v=b1b4fe72a52f",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/WioSpor.cs3?v=66542258e651",
     "status": 3,
-    "version": 56,
+    "version": 58,
     "name": "WioSpor",
     "internalName": "WioSpor",
     "authors": [
       "Wiojelt"
     ],
     "description": "Tüm canlı TV ve spor kanalları tek eklentide. Renk grupları ve alternatif yayın kaynakları.",
-    "fileSize": 835705,
+    "fileSize": 843636,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -935,9 +935,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/logo.png?v=3",
     "apiVersion": 1,
-    "fileHash": "sha256-b1b4fe72a52f6ef95fc790699313d2b6cd46ffc6a6307656fd70d101648ebff0",
-    "filesize": 835705,
-    "hash": "b1b4fe72a52f6ef95fc790699313d2b6cd46ffc6a6307656fd70d101648ebff0"
+    "fileHash": "sha256-66542258e651a1e805b23ea8882e107b623b155f8926b0bef89449f112f89946",
+    "filesize": 843636,
+    "hash": "66542258e651a1e805b23ea8882e107b623b155f8926b0bef89449f112f89946"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/WioSync.cs3?v=05839cdc2a86",
