@@ -810,16 +810,16 @@
     "hash": "43f41ab9a88297253bb2c0265f7c760b3f0379265d4e1d2a955a3fd8bfcead40"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/VionTV.cs3?v=63d8761412c9",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/VionTV.cs3?v=a4be7c7268a2",
     "status": 3,
-    "version": 4,
+    "version": 6,
     "name": "VionTV",
     "internalName": "VionTV",
     "authors": [
       "Wiojelt"
     ],
     "description": "Mien TV canlı TV kanallarını kategori, arama ve kanal logolarıyla sunar.",
-    "fileSize": 159923,
+    "fileSize": 160491,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -827,9 +827,9 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/MienTV.webp",
     "apiVersion": 1,
-    "fileHash": "sha256-63d8761412c91d4877bf18df6ef5035782ade10cdcd84e2f589ba5f8423e381f",
-    "filesize": 159923,
-    "hash": "63d8761412c91d4877bf18df6ef5035782ade10cdcd84e2f589ba5f8423e381f"
+    "fileHash": "sha256-a4be7c7268a264a81ab4b2c092ca05d12effec69fd670177d92a71f2575bdd35",
+    "filesize": 160491,
+    "hash": "a4be7c7268a264a81ab4b2c092ca05d12effec69fd670177d92a71f2575bdd35"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/VivoXSpor.cs3?v=f8dd765ea7df",
